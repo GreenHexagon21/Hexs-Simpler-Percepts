@@ -74,7 +74,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Research_Beautiful</defName>
+    <defName>Outdoor_Beautiful</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>beautiful</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
@@ -87,7 +87,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Research_Gorgeous</defName>
+    <defName>Outdoor_Gorgeous</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>gorgeous</label>
     <description>Research is among the most meaningful acts a person can perform.</description>

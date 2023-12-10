@@ -12,7 +12,7 @@
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>Outdoor_ExtremelyUgly</defName>
+    <defName>PawnBeauty_ExtremelyUgly</defName>
     <issue>PawnBeautyPercept</issue>
     <label>extremely ugly</label>
     <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
@@ -25,7 +25,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Outdoor_VeryUgly</defName>
+    <defName>PawnBeauty_VeryUgly</defName>
     <issue>PawnBeautyPercept</issue>
     <label>very ugly</label>
     <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
@@ -38,7 +38,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Outdoor_Ugly</defName>
+    <defName>PawnBeauty_Ugly</defName>
     <issue>PawnBeautyPercept</issue>
     <label>ugly</label>
     <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
@@ -51,7 +51,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Outdoor_Normal</defName>
+    <defName>PawnBeauty_Normal</defName>
     <issue>PawnBeautyPercept</issue>
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
@@ -61,7 +61,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Outdoor_Lovely</defName>
+    <defName>PawnBeauty_Lovely</defName>
     <issue>PawnBeautyPercept</issue>
     <label>lovely</label>
     <description>Research is an especially virtuous activity.</description>
@@ -74,7 +74,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Research_Beautiful</defName>
+    <defName>PawnBeauty_Beautiful</defName>
     <issue>PawnBeautyPercept</issue>
     <label>beautiful</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
@@ -87,7 +87,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Research_Gorgeous</defName>
+    <defName>PawnBeauty_Gorgeous</defName>
     <issue>PawnBeautyPercept</issue>
     <label>gorgeous</label>
     <description>Research is among the most meaningful acts a person can perform.</description>

@@ -4,55 +4,55 @@
   <!-- Issue -->
 
   <IssueDef>
-    <defName>DoorOpenSpeedPercept</defName>
-    <label>dooropenspeed</label>
-    <iconPath>UI/Issues/DoorOpenSpeedPercept</iconPath>
+    <defName>PruningSpeedPercept</defName>
+    <label>PruningSpeed</label>
+    <iconPath>UI/Issues/PruningSpeedPercept</iconPath>
   </IssueDef>
 
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>DoorOpenSpeed_ExtremelySlow</defName>
-    <issue>DoorOpenSpeedPercept</issue>
+    <defName>PruningSpeed_ExtremelySlow</defName>
+    <issue>PruningSpeedPercept</issue>
     <label>extremely slow</label>
     <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statFactors>
-      <DoorOpenSpeed>0.5</DoorOpenSpeed>
+      <PruningSpeed>0.5</PruningSpeed>
     </statFactors>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>DoorOpenSpeed_VerySlow</defName>
-    <issue>DoorOpenSpeedPercept</issue>
+    <defName>PruningSpeed_VerySlow</defName>
+    <issue>PruningSpeedPercept</issue>
     <label>very Slow</label>
     <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statFactors>
-      <DoorOpenSpeed>0.75</DoorOpenSpeed>
+      <PruningSpeed>0.75</PruningSpeed>
     </statFactors>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>DoorOpenSpeed_Slow</defName>
-    <issue>DoorOpenSpeedPercept</issue>
+    <defName>PruningSpeed_Slow</defName>
+    <issue>PruningSpeedPercept</issue>
     <label>Slow</label>
     <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statFactors>
-      <DoorOpenSpeed>0.9</DoorOpenSpeed>
+      <PruningSpeed>0.9</PruningSpeed>
     </statFactors>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>DoorOpenSpeed_Normal</defName>
-    <issue>DoorOpenSpeedPercept</issue>
+    <defName>PruningSpeed_Normal</defName>
+    <issue>PruningSpeedPercept</issue>
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
@@ -61,41 +61,41 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>DoorOpenSpeed_Fast</defName>
-    <issue>DoorOpenSpeedPercept</issue>
+    <defName>PruningSpeed_Fast</defName>
+    <issue>PruningSpeedPercept</issue>
     <label>fast</label>
     <description>Research is an especially virtuous activity.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statFactors>
-      <DoorOpenSpeed>1.1</DoorOpenSpeed>
+      <PruningSpeed>1.1</PruningSpeed>
     </statFactors>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>DoorOpenSpeed_VeryFast</defName>
-    <issue>DoorOpenSpeedPercept</issue>
+    <defName>PruningSpeed_VeryFast</defName>
+    <issue>PruningSpeedPercept</issue>
     <label>veryfast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statFactors>
-      <DoorOpenSpeed>1.3</DoorOpenSpeed>
+      <PruningSpeed>1.3</PruningSpeed>
     </statFactors>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>DoorOpenSpeed_ExtremelyFast</defName>
-    <issue>DoorOpenSpeedPercept</issue>
+    <defName>PruningSpeed_ExtremelyFast</defName>
+    <issue>PruningSpeedPercept</issue>
     <label>extremelyfast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statFactors>
-      <DoorOpenSpeed>1.5</DoorOpenSpeed>
+      <PruningSpeed>1.5</PruningSpeed>
     </statFactors>
   </PreceptDef>
 
