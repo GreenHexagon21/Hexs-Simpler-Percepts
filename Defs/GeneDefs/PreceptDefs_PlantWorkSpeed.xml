@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Issue -->
+
+  <IssueDef>
+    <defName>PlantWorkSpeedPercept</defName>
+    <label>PlantWorkSpeed</label>
+    <iconPath>UI/Issues/PlantWorkSpeedPercept</iconPath>
+  </IssueDef>
+
+  <!-- Precepts -->
+
+  <PreceptDef>
+    <defName>PlantWorkSpeed_ExtremelySlow</defName>
+    <issue>PlantWorkSpeedPercept</issue>
+    <label>extremely slow</label>
+    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <impact>High</impact>
+    <displayOrderInIssue>50</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <PlantWorkSpeed>0.5</PlantWorkSpeed>
+      <PlantHarvestYield>2</PlantHarvestYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>PlantWorkSpeed_VerySlow</defName>
+    <issue>PlantWorkSpeedPercept</issue>
+    <label>very Slow</label>
+    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <impact>High</impact>
+    <displayOrderInIssue>40</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <PlantWorkSpeed>0.75</PlantWorkSpeed>
+      <PlantHarvestYield>1.5</PlantHarvestYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>PlantWorkSpeed_Slow</defName>
+    <issue>PlantWorkSpeedPercept</issue>
+    <label>Slow</label>
+    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>30</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <PlantWorkSpeed>0.9</PlantWorkSpeed>
+      <PlantHarvestYield>1.2</PlantHarvestYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>PlantWorkSpeed_Normal</defName>
+    <issue>PlantWorkSpeedPercept</issue>
+    <label>normal</label>
+    <description>Research is a worthwhile form of work that the community needs.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>20</displayOrderInIssue>
+    <defaultSelectionWeight>1</defaultSelectionWeight>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>PlantWorkSpeed_Fast</defName>
+    <issue>PlantWorkSpeedPercept</issue>
+    <label>fast</label>
+    <description>Research is an especially virtuous activity.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <PlantWorkSpeed>1.1</PlantWorkSpeed>
+      <PlantHarvestYield>0.9</PlantHarvestYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>PlantWorkSpeed_VeryFast</defName>
+    <issue>PlantWorkSpeedPercept</issue>
+    <label>veryfast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <PlantWorkSpeed>1.25</PlantWorkSpeed>
+      <PlantHarvestYield>0.8</PlantHarvestYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>PlantWorkSpeed_ExtremelyFast</defName>
+    <issue>PlantWorkSpeedPercept</issue>
+    <label>extremelyfast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <PlantWorkSpeed>1.5</PlantWorkSpeed>
+      <PlantHarvestYield>0.75</PlantHarvestYield>
+    </statFactors>
+  </PreceptDef>
+
+</Defs>

@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Issue -->
+
+  <IssueDef>
+    <defName>MedicalTendSpeedPercept</defName>
+    <label>MedicalTendSpeed</label>
+    <iconPath>UI/Issues/MedicalTendSpeedPercept</iconPath>
+  </IssueDef>
+
+  <!-- Precepts -->
+
+  <PreceptDef>
+    <defName>MedicalTendSpeed_ExtremelySlow</defName>
+    <issue>MedicalTendSpeedPercept</issue>
+    <label>extremely slow</label>
+    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <impact>High</impact>
+    <displayOrderInIssue>50</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <MedicalTendSpeed>0.5</MedicalTendSpeed>
+      <MedicalTendQuality>2</MedicalTendQuality>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>MedicalTendSpeed_VerySlow</defName>
+    <issue>MedicalTendSpeedPercept</issue>
+    <label>very Slow</label>
+    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <impact>High</impact>
+    <displayOrderInIssue>40</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <MedicalTendSpeed>0.75</MedicalTendSpeed>
+      <MedicalTendQuality>1.5</MedicalTendQuality>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>MedicalTendSpeed_Slow</defName>
+    <issue>MedicalTendSpeedPercept</issue>
+    <label>Slow</label>
+    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>30</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <MedicalTendSpeed>0.9</MedicalTendSpeed>
+      <MedicalTendQuality>1.2</MedicalTendQuality>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>MedicalTendSpeed_Normal</defName>
+    <issue>MedicalTendSpeedPercept</issue>
+    <label>normal</label>
+    <description>Research is a worthwhile form of work that the community needs.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>20</displayOrderInIssue>
+    <defaultSelectionWeight>1</defaultSelectionWeight>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>MedicalTendSpeed_Fast</defName>
+    <issue>MedicalTendSpeedPercept</issue>
+    <label>fast</label>
+    <description>Research is an especially virtuous activity.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <MedicalTendSpeed>1.1</MedicalTendSpeed>
+      <MedicalTendQuality>0.9</MedicalTendQuality>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>MedicalTendSpeed_VeryFast</defName>
+    <issue>MedicalTendSpeedPercept</issue>
+    <label>veryfast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <MedicalTendSpeed>1.25</MedicalTendSpeed>
+      <MedicalTendQuality>0.8</MedicalTendQuality>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>MedicalTendSpeed_ExtremelyFast</defName>
+    <issue>MedicalTendSpeedPercept</issue>
+    <label>extremelyfast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <MedicalTendSpeed>1.5</MedicalTendSpeed>
+      <MedicalTendQuality>0.75</MedicalTendQuality>
+    </statFactors>
+  </PreceptDef>
+
+</Defs>

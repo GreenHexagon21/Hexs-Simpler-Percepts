@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Issue -->
+
+  <IssueDef>
+    <defName>AnimalGatherSpeedPercept</defName>
+    <label>AnimalGatherSpeed</label>
+    <iconPath>UI/Issues/AnimalGatherSpeedPercept</iconPath>
+  </IssueDef>
+
+  <!-- Precepts -->
+
+  <PreceptDef>
+    <defName>AnimalGatherSpeed_ExtremelySlow</defName>
+    <issue>AnimalGatherSpeedPercept</issue>
+    <label>extremely slow</label>
+    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <impact>High</impact>
+    <displayOrderInIssue>50</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <AnimalGatherSpeed>0.5</AnimalGatherSpeed>
+      <AnimalGatherYield>2</AnimalGatherYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>AnimalGatherSpeed_VerySlow</defName>
+    <issue>AnimalGatherSpeedPercept</issue>
+    <label>very Slow</label>
+    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <impact>High</impact>
+    <displayOrderInIssue>40</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <AnimalGatherSpeed>0.75</AnimalGatherSpeed>
+      <AnimalGatherYield>1.5</AnimalGatherYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>AnimalGatherSpeed_Slow</defName>
+    <issue>AnimalGatherSpeedPercept</issue>
+    <label>Slow</label>
+    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>30</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <AnimalGatherSpeed>0.9</AnimalGatherSpeed>
+      <AnimalGatherYield>1.2</AnimalGatherYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>AnimalGatherSpeed_Normal</defName>
+    <issue>AnimalGatherSpeedPercept</issue>
+    <label>normal</label>
+    <description>Research is a worthwhile form of work that the community needs.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>20</displayOrderInIssue>
+    <defaultSelectionWeight>1</defaultSelectionWeight>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>AnimalGatherSpeed_Fast</defName>
+    <issue>AnimalGatherSpeedPercept</issue>
+    <label>fast</label>
+    <description>Research is an especially virtuous activity.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <AnimalGatherSpeed>1.1</AnimalGatherSpeed>
+      <AnimalGatherYield>0.9</AnimalGatherYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>AnimalGatherSpeed_VeryFast</defName>
+    <issue>AnimalGatherSpeedPercept</issue>
+    <label>veryfast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <AnimalGatherSpeed>1.25</AnimalGatherSpeed>
+      <AnimalGatherYield>0.8</AnimalGatherYield>
+    </statFactors>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>AnimalGatherSpeed_ExtremelyFast</defName>
+    <issue>AnimalGatherSpeedPercept</issue>
+    <label>extremelyfast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statFactors>
+      <AnimalGatherSpeed>1.5</AnimalGatherSpeed>
+      <AnimalGatherYield>0.75</AnimalGatherYield>
+    </statFactors>
+  </PreceptDef>
+
+</Defs>
