@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Issue -->
+
+  <IssueDef>
+    <defName>PawnBeautyPercept</defName>
+    <label>pawnbeauty</label>
+    <iconPath>UI/Issues/PawnBeautyPercept</iconPath>
+  </IssueDef>
+
+  <!-- Precepts -->
+
+  <PreceptDef>
+    <defName>Outdoor_ExtremelyUgly</defName>
+    <issue>PawnBeautyPercept</issue>
+    <label>extremely ugly</label>
+    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <impact>High</impact>
+    <displayOrderInIssue>50</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <PawnBeauty>-5</PawnBeauty>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>Outdoor_VeryUgly</defName>
+    <issue>PawnBeautyPercept</issue>
+    <label>very ugly</label>
+    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <impact>High</impact>
+    <displayOrderInIssue>40</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <PawnBeauty>-3</PawnBeauty>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>Outdoor_Ugly</defName>
+    <issue>PawnBeautyPercept</issue>
+    <label>ugly</label>
+    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>30</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <PawnBeauty>-1</PawnBeauty>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>Outdoor_Normal</defName>
+    <issue>PawnBeautyPercept</issue>
+    <label>normal</label>
+    <description>Research is a worthwhile form of work that the community needs.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>20</displayOrderInIssue>
+    <defaultSelectionWeight>1</defaultSelectionWeight>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>Outdoor_Lovely</defName>
+    <issue>PawnBeautyPercept</issue>
+    <label>lovely</label>
+    <description>Research is an especially virtuous activity.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <PawnBeauty>1</PawnBeauty>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>Research_Beautiful</defName>
+    <issue>PawnBeautyPercept</issue>
+    <label>beautiful</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <PawnBeauty>3</PawnBeauty>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>Research_Gorgeous</defName>
+    <issue>PawnBeautyPercept</issue>
+    <label>gorgeous</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <PawnBeauty>5</PawnBeauty>
+    </statOffsets>
+  </PreceptDef>
+
+</Defs>
