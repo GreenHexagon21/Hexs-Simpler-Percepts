@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Issue -->
+
+  <IssueDef>
+    <defName>SocialImpactPercept</defName>
+    <label>SocialImpact</label>
+    <iconPath>UI/Issues/SocialImpactPercept</iconPath>
+  </IssueDef>
+
+  <!-- Precepts -->
+
+  <PreceptDef>
+    <defName>SocialImpact_ExtremelyStable</defName>
+    <issue>SocialImpactPercept</issue>
+    <label>extremely stable</label>
+    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <impact>High</impact>
+    <displayOrderInIssue>50</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <SocialImpact>-0.5</SocialImpact>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>SocialImpact_VeryStable</defName>
+    <issue>SocialImpactPercept</issue>
+    <label>very Stable</label>
+    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <impact>High</impact>
+    <displayOrderInIssue>40</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <SocialImpact>-0.35</SocialImpact>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>SocialImpact_Stable</defName>
+    <issue>SocialImpactPercept</issue>
+    <label>Stable</label>
+    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>30</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <SocialImpact>-0.1</SocialImpact>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>SocialImpact_Normal</defName>
+    <issue>SocialImpactPercept</issue>
+    <label>normal</label>
+    <description>Research is a worthwhile form of work that the community needs.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <defaultSelectionWeight>1</defaultSelectionWeight>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>SocialImpact_Sensitive</defName>
+    <issue>SocialImpactPercept</issue>
+    <label>sensitive</label>
+    <description>Research is an especially virtuous activity.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <SocialImpact>0.1</SocialImpact>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>SocialImpact_VerySensitive</defName>
+    <issue>SocialImpactPercept</issue>
+    <label>very sensitive</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <SocialImpact>0.3</SocialImpact>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>SocialImpact_ExtremelySensitive</defName>
+    <issue>SocialImpactPercept</issue>
+    <label>extremely sensitive</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <SocialImpact>0.5</SocialImpact>
+    </statOffsets>
+  </PreceptDef>
+
+</Defs>

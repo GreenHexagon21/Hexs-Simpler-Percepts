@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Issue -->
+
+  <IssueDef>
+    <defName>BedRestEffectivenessPercept</defName>
+    <label>BedRestEffectiveness</label>
+    <iconPath>UI/Issues/BedRestEffectivenessPercept</iconPath>
+  </IssueDef>
+
+  <!-- Precepts -->
+
+  <PreceptDef>
+    <defName>BedRestEffectiveness_ExtremelySlow</defName>
+    <issue>BedRestEffectivenessPercept</issue>
+    <label>extremely slow</label>
+    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <impact>High</impact>
+    <displayOrderInIssue>50</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <BedRestEffectiveness>-0.5</BedRestEffectiveness>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>BedRestEffectiveness_VerySlow</defName>
+    <issue>BedRestEffectivenessPercept</issue>
+    <label>very Slow</label>
+    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <impact>High</impact>
+    <displayOrderInIssue>40</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <BedRestEffectiveness>-0.35</BedRestEffectiveness>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>BedRestEffectiveness_Slow</defName>
+    <issue>BedRestEffectivenessPercept</issue>
+    <label>Slow</label>
+    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>30</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <BedRestEffectiveness>-0.1</BedRestEffectiveness>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>BedRestEffectiveness_Normal</defName>
+    <issue>BedRestEffectivenessPercept</issue>
+    <label>normal</label>
+    <description>Research is a worthwhile form of work that the community needs.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <defaultSelectionWeight>1</defaultSelectionWeight>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>BedRestEffectiveness_Fast</defName>
+    <issue>BedRestEffectivenessPercept</issue>
+    <label>fast</label>
+    <description>Research is an especially virtuous activity.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <BedRestEffectiveness>0.1</BedRestEffectiveness>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>BedRestEffectiveness_VeryFast</defName>
+    <issue>BedRestEffectivenessPercept</issue>
+    <label>very fast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <BedRestEffectiveness>0.3</BedRestEffectiveness>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>BedRestEffectiveness_ExtremelyFast</defName>
+    <issue>BedRestEffectivenessPercept</issue>
+    <label>extremely fast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <BedRestEffectiveness>0.5</BedRestEffectiveness>
+    </statOffsets>
+  </PreceptDef>
+
+</Defs>

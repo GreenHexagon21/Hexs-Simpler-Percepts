@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Issue -->
+
+  <IssueDef>
+    <defName>EatingSpeedPercept</defName>
+    <label>EatingSpeed</label>
+    <iconPath>UI/Issues/EatingSpeedPercept</iconPath>
+  </IssueDef>
+
+  <!-- Precepts -->
+
+  <PreceptDef>
+    <defName>EatingSpeed_ExtremelySlow</defName>
+    <issue>EatingSpeedPercept</issue>
+    <label>extremely slow</label>
+    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <impact>High</impact>
+    <displayOrderInIssue>50</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <EatingSpeed>-0.5</EatingSpeed>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>EatingSpeed_VerySlow</defName>
+    <issue>EatingSpeedPercept</issue>
+    <label>very Slow</label>
+    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <impact>High</impact>
+    <displayOrderInIssue>40</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <EatingSpeed>-0.35</EatingSpeed>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>EatingSpeed_Slow</defName>
+    <issue>EatingSpeedPercept</issue>
+    <label>Slow</label>
+    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>30</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <EatingSpeed>-0.1</EatingSpeed>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>EatingSpeed_Normal</defName>
+    <issue>EatingSpeedPercept</issue>
+    <label>normal</label>
+    <description>Research is a worthwhile form of work that the community needs.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <defaultSelectionWeight>1</defaultSelectionWeight>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>EatingSpeed_Fast</defName>
+    <issue>EatingSpeedPercept</issue>
+    <label>fast</label>
+    <description>Research is an especially virtuous activity.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <EatingSpeed>0.1</EatingSpeed>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>EatingSpeed_VeryFast</defName>
+    <issue>EatingSpeedPercept</issue>
+    <label>very fast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <EatingSpeed>0.3</EatingSpeed>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>EatingSpeed_ExtremelyFast</defName>
+    <issue>EatingSpeedPercept</issue>
+    <label>extremely fast</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <EatingSpeed>0.5</EatingSpeed>
+    </statOffsets>
+  </PreceptDef>
+
+</Defs>
