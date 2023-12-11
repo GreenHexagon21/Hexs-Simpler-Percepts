@@ -4,55 +4,55 @@
   <!-- Issue -->
 
   <IssueDef>
-    <defName>JoyGainFactorPercept</defName>
+    <defName>CleaningTimeFactorPercept</defName>
     <label>door open speed</label>
-    <iconPath>UI/Issues/JoyGainFactorPercept</iconPath>
+    <iconPath>UI/Issues/CleaningTimeFactorPercept</iconPath>
   </IssueDef>
 
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>JoyGainFactor_ExtremelySlow</defName>
-    <issue>JoyGainFactorPercept</issue>
+    <defName>CleaningTimeFactor_ExtremelySlow</defName>
+    <issue>CleaningTimeFactorPercept</issue>
     <label>extremely slow</label>
     <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>-0.5</JoyGainFactor>
+      <CleaningTimeFactor>-0.5</CleaningTimeFactor>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_VerySlow</defName>
-    <issue>JoyGainFactorPercept</issue>
+    <defName>CleaningTimeFactor_VerySlow</defName>
+    <issue>CleaningTimeFactorPercept</issue>
     <label>very Slow</label>
     <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>-0.35</JoyGainFactor>
+      <CleaningTimeFactor>-0.35</CleaningTimeFactor>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_Slow</defName>
-    <issue>JoyGainFactorPercept</issue>
+    <defName>CleaningTimeFactor_Slow</defName>
+    <issue>CleaningTimeFactorPercept</issue>
     <label>Slow</label>
     <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>-0.1</JoyGainFactor>
+      <CleaningTimeFactor>-0.1</CleaningTimeFactor>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_Normal</defName>
-    <issue>JoyGainFactorPercept</issue>
+    <defName>CleaningTimeFactor_Normal</defName>
+    <issue>CleaningTimeFactorPercept</issue>
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
@@ -61,41 +61,41 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_Fast</defName>
-    <issue>JoyGainFactorPercept</issue>
+    <defName>CleaningTimeFactor_Fast</defName>
+    <issue>CleaningTimeFactorPercept</issue>
     <label>fast</label>
     <description>Research is an especially virtuous activity.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>0.1</JoyGainFactor>
+      <CleaningTimeFactor>0.1</CleaningTimeFactor>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_VeryFast</defName>
-    <issue>JoyGainFactorPercept</issue>
+    <defName>CleaningTimeFactor_VeryFast</defName>
+    <issue>CleaningTimeFactorPercept</issue>
     <label>very fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>0.3</JoyGainFactor>
+      <CleaningTimeFactor>0.3</CleaningTimeFactor>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_ExtremelyFast</defName>
-    <issue>JoyGainFactorPercept</issue>
+    <defName>CleaningTimeFactor_ExtremelyFast</defName>
+    <issue>CleaningTimeFactorPercept</issue>
     <label>extremely fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>0.5</JoyGainFactor>
+      <CleaningTimeFactor>0.5</CleaningTimeFactor>
     </statOffsets>
   </PreceptDef>
 

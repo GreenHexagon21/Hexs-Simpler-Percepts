@@ -4,55 +4,55 @@
   <!-- Issue -->
 
   <IssueDef>
-    <defName>JoyGainFactorPercept</defName>
-    <label>door open speed</label>
-    <iconPath>UI/Issues/JoyGainFactorPercept</iconPath>
+    <defName>TradePriceImprovementPercept</defName>
+    <label>TradePriceImprovement</label>
+    <iconPath>UI/Issues/TradePriceImprovementPercept</iconPath>
   </IssueDef>
 
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>JoyGainFactor_ExtremelySlow</defName>
-    <issue>JoyGainFactorPercept</issue>
-    <label>extremely slow</label>
+    <defName>TradePriceImprovement_ExtremelyStable</defName>
+    <issue>TradePriceImprovementPercept</issue>
+    <label>extremely stable</label>
     <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>-0.5</JoyGainFactor>
+      <TradePriceImprovement>-0.5</TradePriceImprovement>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_VerySlow</defName>
-    <issue>JoyGainFactorPercept</issue>
-    <label>very Slow</label>
+    <defName>TradePriceImprovement_VeryStable</defName>
+    <issue>TradePriceImprovementPercept</issue>
+    <label>very Stable</label>
     <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>-0.35</JoyGainFactor>
+      <TradePriceImprovement>-0.35</TradePriceImprovement>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_Slow</defName>
-    <issue>JoyGainFactorPercept</issue>
-    <label>Slow</label>
+    <defName>TradePriceImprovement_Stable</defName>
+    <issue>TradePriceImprovementPercept</issue>
+    <label>Stable</label>
     <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>-0.1</JoyGainFactor>
+      <TradePriceImprovement>-0.1</TradePriceImprovement>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_Normal</defName>
-    <issue>JoyGainFactorPercept</issue>
+    <defName>TradePriceImprovement_Normal</defName>
+    <issue>TradePriceImprovementPercept</issue>
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
@@ -61,41 +61,41 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_Fast</defName>
-    <issue>JoyGainFactorPercept</issue>
-    <label>fast</label>
+    <defName>TradePriceImprovement_Sensitive</defName>
+    <issue>TradePriceImprovementPercept</issue>
+    <label>sensitive</label>
     <description>Research is an especially virtuous activity.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>0.1</JoyGainFactor>
+      <TradePriceImprovement>0.1</TradePriceImprovement>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_VeryFast</defName>
-    <issue>JoyGainFactorPercept</issue>
-    <label>very fast</label>
+    <defName>TradePriceImprovement_VerySensitive</defName>
+    <issue>TradePriceImprovementPercept</issue>
+    <label>very sensitive</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>0.3</JoyGainFactor>
+      <TradePriceImprovement>0.3</TradePriceImprovement>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>JoyGainFactor_ExtremelyFast</defName>
-    <issue>JoyGainFactorPercept</issue>
-    <label>extremely fast</label>
+    <defName>TradePriceImprovement_ExtremelySensitive</defName>
+    <issue>TradePriceImprovementPercept</issue>
+    <label>extremely sensitive</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <JoyGainFactor>0.5</JoyGainFactor>
+      <TradePriceImprovement>0.5</TradePriceImprovement>
     </statOffsets>
   </PreceptDef>
 
