@@ -19,10 +19,10 @@
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <TameAnimalChance>0.5</TameAnimalChance>
-      <TrainAnimalChance>0.5</TrainAnimalChance>
-    </statFactors>
+    <statOffsets>
+      <TameAnimalChance>-0.5</TameAnimalChance>
+      <TrainAnimalChance>-0.5</TrainAnimalChance>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -33,10 +33,10 @@
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <TameAnimalChance>0.75</TameAnimalChance>
-      <TrainAnimalChance>0.75</TrainAnimalChance>
-    </statFactors>
+    <statOffsets>
+      <TameAnimalChance>-0.35</TameAnimalChance>
+      <TrainAnimalChance>-0.35</TrainAnimalChance>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -47,10 +47,10 @@
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <TameAnimalChance>0.9</TameAnimalChance>
-      <TrainAnimalChance>0.9</TrainAnimalChance>
-    </statFactors>
+    <statOffsets>
+      <TameAnimalChance>-0.1</TameAnimalChance>
+      <TrainAnimalChance>-0.1</TrainAnimalChance>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -59,7 +59,7 @@
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
-    <displayOrderInIssue>20</displayOrderInIssue>
+    <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
   </PreceptDef>
 
@@ -71,38 +71,38 @@
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <TameAnimalChance>1.1</TameAnimalChance>
-      <TrainAnimalChance>1.1</TrainAnimalChance>
-    </statFactors>
+    <statOffsets>
+      <TameAnimalChance>0.1</TameAnimalChance>
+      <TrainAnimalChance>0.1</TrainAnimalChance>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>TameAnimalChance_VeryFast</defName>
     <issue>TameAnimalChancePercept</issue>
-    <label>veryfast</label>
+    <label>very fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <TameAnimalChance>1.3</TameAnimalChance>
-      <TrainAnimalChance>1.3</TrainAnimalChance>
-    </statFactors>
+    <statOffsets>
+      <TameAnimalChance>0.3</TameAnimalChance>
+      <TrainAnimalChance>0.3</TrainAnimalChance>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>TameAnimalChance_ExtremelyFast</defName>
     <issue>TameAnimalChancePercept</issue>
-    <label>extremelyfast</label>
+    <label>extremely fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <TameAnimalChance>1.5</TameAnimalChance>
-      <TrainAnimalChance>1.5</TrainAnimalChance>
-    </statFactors>
+    <statOffsets>
+      <TameAnimalChance>0.5</TameAnimalChance>
+      <TrainAnimalChance>0.5</TrainAnimalChance>
+    </statOffsets>
   </PreceptDef>
 
 </Defs>

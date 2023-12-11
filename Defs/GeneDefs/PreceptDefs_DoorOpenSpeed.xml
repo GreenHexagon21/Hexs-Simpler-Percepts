@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>DoorOpenSpeedPercept</defName>
-    <label>dooropenspeed</label>
+    <label>door open speed</label>
     <iconPath>UI/Issues/DoorOpenSpeedPercept</iconPath>
   </IssueDef>
 
@@ -19,9 +19,9 @@
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <DoorOpenSpeed>0.5</DoorOpenSpeed>
-    </statFactors>
+    <statOffsets>
+      <DoorOpenSpeed>-0.5</DoorOpenSpeed>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -32,9 +32,9 @@
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <DoorOpenSpeed>0.75</DoorOpenSpeed>
-    </statFactors>
+    <statOffsets>
+      <DoorOpenSpeed>-0.35</DoorOpenSpeed>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -45,9 +45,9 @@
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <DoorOpenSpeed>0.9</DoorOpenSpeed>
-    </statFactors>
+    <statOffsets>
+      <DoorOpenSpeed>-0.1</DoorOpenSpeed>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -56,7 +56,7 @@
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
-    <displayOrderInIssue>20</displayOrderInIssue>
+    <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
   </PreceptDef>
 
@@ -68,35 +68,35 @@
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <DoorOpenSpeed>1.1</DoorOpenSpeed>
-    </statFactors>
+    <statOffsets>
+      <DoorOpenSpeed>0.1</DoorOpenSpeed>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>DoorOpenSpeed_VeryFast</defName>
     <issue>DoorOpenSpeedPercept</issue>
-    <label>veryfast</label>
+    <label>very fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <DoorOpenSpeed>1.3</DoorOpenSpeed>
-    </statFactors>
+    <statOffsets>
+      <DoorOpenSpeed>0.3</DoorOpenSpeed>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>DoorOpenSpeed_ExtremelyFast</defName>
     <issue>DoorOpenSpeedPercept</issue>
-    <label>extremelyfast</label>
+    <label>extremely fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <DoorOpenSpeed>1.5</DoorOpenSpeed>
-    </statFactors>
+    <statOffsets>
+      <DoorOpenSpeed>0.5</DoorOpenSpeed>
+    </statOffsets>
   </PreceptDef>
 
 </Defs>

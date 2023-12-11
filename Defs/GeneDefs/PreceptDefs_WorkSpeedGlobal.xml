@@ -19,9 +19,9 @@
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <WorkSpeedGlobal>0.5</WorkSpeedGlobal>
-    </statFactors>
+    <statOffsets>
+      <WorkSpeedGlobal>-0.5</WorkSpeedGlobal>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -32,9 +32,9 @@
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <WorkSpeedGlobal>0.75</WorkSpeedGlobal>
-    </statFactors>
+    <statOffsets>
+      <WorkSpeedGlobal>-0.35</WorkSpeedGlobal>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -45,9 +45,9 @@
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <WorkSpeedGlobal>0.9</WorkSpeedGlobal>
-    </statFactors>
+    <statOffsets>
+      <WorkSpeedGlobal>-0.1</WorkSpeedGlobal>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -56,7 +56,7 @@
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
-    <displayOrderInIssue>20</displayOrderInIssue>
+    <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
   </PreceptDef>
 
@@ -68,35 +68,35 @@
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <WorkSpeedGlobal>1.1</WorkSpeedGlobal>
-    </statFactors>
+    <statOffsets>
+      <WorkSpeedGlobal>0.1</WorkSpeedGlobal>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>WorkSpeed_VeryFast</defName>
     <issue>WorkSpeedPercept</issue>
-    <label>veryfast</label>
+    <label>very fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <WorkSpeedGlobal>1.25</WorkSpeedGlobal>
-    </statFactors>
+    <statOffsets>
+      <WorkSpeedGlobal>0.155</WorkSpeedGlobal>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>WorkSpeed_ExtremelyFast</defName>
     <issue>WorkSpeedPercept</issue>
-    <label>extremelyfast</label>
+    <label>extremely fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <WorkSpeedGlobal>1.5</WorkSpeedGlobal>
-    </statFactors>
+    <statOffsets>
+      <WorkSpeedGlobal>0.5</WorkSpeedGlobal>
+    </statOffsets>
   </PreceptDef>
 
 </Defs>

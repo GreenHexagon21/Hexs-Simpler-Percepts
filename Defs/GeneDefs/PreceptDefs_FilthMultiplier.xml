@@ -4,55 +4,55 @@
   <!-- Issue -->
 
   <IssueDef>
-    <defName>ConstructionSpeedPercept</defName>
-    <label>ConstructionSpeed</label>
-    <iconPath>UI/Issues/ConstructionSpeedPercept</iconPath>
+    <defName>FilthMultiplierPercept</defName>
+    <label>door open speed</label>
+    <iconPath>UI/Issues/FilthMultiplierPercept</iconPath>
   </IssueDef>
 
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>ConstructionSpeed_ExtremelySlow</defName>
-    <issue>ConstructionSpeedPercept</issue>
-    <label>extremely slow</label>
+    <defName>FilthMultiplier_ExtremelyClean</defName>
+    <issue>FilthMultiplierPercept</issue>
+    <label>extremely clean</label>
     <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>-0.5</ConstructionSpeedFactor>
+      <FilthMultiplier>-0.5</FilthMultiplier>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_VerySlow</defName>
-    <issue>ConstructionSpeedPercept</issue>
-    <label>very Slow</label>
+    <defName>FilthMultiplier_VeryClean</defName>
+    <issue>FilthMultiplierPercept</issue>
+    <label>very clean</label>
     <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>-0.35</ConstructionSpeedFactor>
+      <FilthMultiplier>-0.35</FilthMultiplier>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_Slow</defName>
-    <issue>ConstructionSpeedPercept</issue>
-    <label>Slow</label>
+    <defName>FilthMultiplier_Clean</defName>
+    <issue>FilthMultiplierPercept</issue>
+    <label>clean</label>
     <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>-0.1</ConstructionSpeedFactor>
+      <FilthMultiplier>-0.1</FilthMultiplier>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_Normal</defName>
-    <issue>ConstructionSpeedPercept</issue>
+    <defName>FilthMultiplier_Normal</defName>
+    <issue>FilthMultiplierPercept</issue>
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
@@ -61,41 +61,41 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_Fast</defName>
-    <issue>ConstructionSpeedPercept</issue>
-    <label>fast</label>
+    <defName>FilthMultiplier_Filthy</defName>
+    <issue>FilthMultiplierPercept</issue>
+    <label>filthy</label>
     <description>Research is an especially virtuous activity.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>0.1</ConstructionSpeedFactor>
+      <FilthMultiplier>0.1</FilthMultiplier>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_VeryFast</defName>
-    <issue>ConstructionSpeedPercept</issue>
-    <label>very fast</label>
+    <defName>FilthMultiplier_VeryFilthy</defName>
+    <issue>FilthMultiplierPercept</issue>
+    <label>very filthy</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>0.155</ConstructionSpeedFactor>
+      <FilthMultiplier>0.3</FilthMultiplier>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_ExtremelyFast</defName>
-    <issue>ConstructionSpeedPercept</issue>
-    <label>extremely fast</label>
+    <defName>FilthMultiplier_ExtremelyFilthy</defName>
+    <issue>FilthMultiplierPercept</issue>
+    <label>extremely filthy</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>0.5</ConstructionSpeedFactor>
+      <FilthMultiplier>0.5</FilthMultiplier>
     </statOffsets>
   </PreceptDef>
 

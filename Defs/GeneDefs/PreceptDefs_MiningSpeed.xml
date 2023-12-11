@@ -19,10 +19,10 @@
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MiningSpeed>0.5</MiningSpeed>
-      <MiningYield>2</MiningYield>
-    </statFactors>
+    <statOffsets>
+      <MiningSpeed>-0.5</MiningSpeed>
+      <MiningYield>1</MiningYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -33,10 +33,10 @@
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MiningSpeed>0.75</MiningSpeed>
-      <MiningYield>1.5</MiningYield>
-    </statFactors>
+    <statOffsets>
+      <MiningSpeed>-0.25</MiningSpeed>
+      <MiningYield>0.5</MiningYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -47,10 +47,10 @@
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MiningSpeed>0.9</MiningSpeed>
-      <MiningYield>1.2</MiningYield>
-    </statFactors>
+    <statOffsets>
+      <MiningSpeed>-0.1</MiningSpeed>
+      <MiningYield>0.15</MiningYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -59,7 +59,7 @@
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
-    <displayOrderInIssue>20</displayOrderInIssue>
+    <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
   </PreceptDef>
 
@@ -71,38 +71,38 @@
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MiningSpeed>1.1</MiningSpeed>
-      <MiningYield>0.9</MiningYield>
-    </statFactors>
+    <statOffsets>
+      <MiningSpeed>0.1</MiningSpeed>
+      <MiningYield>-0.1</MiningYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>MiningSpeed_VeryFast</defName>
     <issue>MiningSpeedPercept</issue>
-    <label>veryfast</label>
+    <label>very fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MiningSpeed>1.25</MiningSpeed>
-      <MiningYield>0.8</MiningYield>
-    </statFactors>
+    <statOffsets>
+      <MiningSpeed>0.15</MiningSpeed>
+      <MiningYield>-0.2</MiningYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>MiningSpeed_ExtremelyFast</defName>
     <issue>MiningSpeedPercept</issue>
-    <label>extremelyfast</label>
+    <label>extremely fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MiningSpeed>1.5</MiningSpeed>
-      <MiningYield>0.75</MiningYield>
-    </statFactors>
+    <statOffsets>
+      <MiningSpeed>0.5</MiningSpeed>
+      <MiningYield>-0.35</MiningYield>
+    </statOffsets>
   </PreceptDef>
 
 </Defs>

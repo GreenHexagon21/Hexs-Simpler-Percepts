@@ -4,55 +4,55 @@
   <!-- Issue -->
 
   <IssueDef>
-    <defName>ConstructionSpeedPercept</defName>
-    <label>ConstructionSpeed</label>
-    <iconPath>UI/Issues/ConstructionSpeedPercept</iconPath>
+    <defName>MoveSpeedPercept</defName>
+    <label>door open speed</label>
+    <iconPath>UI/Issues/MoveSpeedPercept</iconPath>
   </IssueDef>
 
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>ConstructionSpeed_ExtremelySlow</defName>
-    <issue>ConstructionSpeedPercept</issue>
+    <defName>MoveSpeed_ExtremelySlow</defName>
+    <issue>MoveSpeedPercept</issue>
     <label>extremely slow</label>
     <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>-0.5</ConstructionSpeedFactor>
+      <MoveSpeed>-0.5</MoveSpeed>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_VerySlow</defName>
-    <issue>ConstructionSpeedPercept</issue>
+    <defName>MoveSpeed_VerySlow</defName>
+    <issue>MoveSpeedPercept</issue>
     <label>very Slow</label>
     <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>-0.35</ConstructionSpeedFactor>
+      <MoveSpeed>-0.35</MoveSpeed>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_Slow</defName>
-    <issue>ConstructionSpeedPercept</issue>
+    <defName>MoveSpeed_Slow</defName>
+    <issue>MoveSpeedPercept</issue>
     <label>Slow</label>
     <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>-0.1</ConstructionSpeedFactor>
+      <MoveSpeed>-0.1</MoveSpeed>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_Normal</defName>
-    <issue>ConstructionSpeedPercept</issue>
+    <defName>MoveSpeed_Normal</defName>
+    <issue>MoveSpeedPercept</issue>
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
@@ -61,41 +61,41 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_Fast</defName>
-    <issue>ConstructionSpeedPercept</issue>
+    <defName>MoveSpeed_Fast</defName>
+    <issue>MoveSpeedPercept</issue>
     <label>fast</label>
     <description>Research is an especially virtuous activity.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>0.1</ConstructionSpeedFactor>
+      <MoveSpeed>0.1</MoveSpeed>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_VeryFast</defName>
-    <issue>ConstructionSpeedPercept</issue>
+    <defName>MoveSpeed_VeryFast</defName>
+    <issue>MoveSpeedPercept</issue>
     <label>very fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>0.155</ConstructionSpeedFactor>
+      <MoveSpeed>0.3</MoveSpeed>
     </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructionSpeed_ExtremelyFast</defName>
-    <issue>ConstructionSpeedPercept</issue>
+    <defName>MoveSpeed_ExtremelyFast</defName>
+    <issue>MoveSpeedPercept</issue>
     <label>extremely fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <ConstructionSpeedFactor>0.5</ConstructionSpeedFactor>
+      <MoveSpeed>0.5</MoveSpeed>
     </statOffsets>
   </PreceptDef>
 

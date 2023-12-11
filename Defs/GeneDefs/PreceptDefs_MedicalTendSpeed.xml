@@ -19,10 +19,10 @@
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MedicalTendSpeed>0.5</MedicalTendSpeed>
-      <MedicalTendQuality>2</MedicalTendQuality>
-    </statFactors>
+    <statOffsets>
+      <MedicalTendSpeed>-0.5</MedicalTendSpeed>
+      <MedicalTendQuality>1</MedicalTendQuality>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -33,10 +33,10 @@
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MedicalTendSpeed>0.75</MedicalTendSpeed>
-      <MedicalTendQuality>1.5</MedicalTendQuality>
-    </statFactors>
+    <statOffsets>
+      <MedicalTendSpeed>-0.25</MedicalTendSpeed>
+      <MedicalTendQuality>0.5</MedicalTendQuality>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -47,10 +47,10 @@
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MedicalTendSpeed>0.9</MedicalTendSpeed>
-      <MedicalTendQuality>1.2</MedicalTendQuality>
-    </statFactors>
+    <statOffsets>
+      <MedicalTendSpeed>-0.1</MedicalTendSpeed>
+      <MedicalTendQuality>0.15</MedicalTendQuality>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -59,7 +59,7 @@
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
-    <displayOrderInIssue>20</displayOrderInIssue>
+    <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
   </PreceptDef>
 
@@ -71,38 +71,38 @@
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MedicalTendSpeed>1.1</MedicalTendSpeed>
-      <MedicalTendQuality>0.9</MedicalTendQuality>
-    </statFactors>
+    <statOffsets>
+      <MedicalTendSpeed>0.1</MedicalTendSpeed>
+      <MedicalTendQuality>-0.1</MedicalTendQuality>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>MedicalTendSpeed_VeryFast</defName>
     <issue>MedicalTendSpeedPercept</issue>
-    <label>veryfast</label>
+    <label>very fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MedicalTendSpeed>1.25</MedicalTendSpeed>
-      <MedicalTendQuality>0.8</MedicalTendQuality>
-    </statFactors>
+    <statOffsets>
+      <MedicalTendSpeed>0.155</MedicalTendSpeed>
+      <MedicalTendQuality>-0.2</MedicalTendQuality>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>MedicalTendSpeed_ExtremelyFast</defName>
     <issue>MedicalTendSpeedPercept</issue>
-    <label>extremelyfast</label>
+    <label>extremely fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <MedicalTendSpeed>1.5</MedicalTendSpeed>
-      <MedicalTendQuality>0.75</MedicalTendQuality>
-    </statFactors>
+    <statOffsets>
+      <MedicalTendSpeed>0.5</MedicalTendSpeed>
+      <MedicalTendQuality>-0.35</MedicalTendQuality>
+    </statOffsets>
   </PreceptDef>
 
 </Defs>

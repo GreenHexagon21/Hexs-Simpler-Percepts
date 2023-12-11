@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>AnimalGatherSpeedPercept</defName>
-    <label>AnimalGatherSpeed</label>
+    <label>animal gather Speed</label>
     <iconPath>UI/Issues/AnimalGatherSpeedPercept</iconPath>
   </IssueDef>
 
@@ -19,10 +19,10 @@
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <AnimalGatherSpeed>0.5</AnimalGatherSpeed>
-      <AnimalGatherYield>2</AnimalGatherYield>
-    </statFactors>
+    <statOffsets>
+      <AnimalGatherSpeed>-0.5</AnimalGatherSpeed>
+      <AnimalGatherYield>1</AnimalGatherYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -33,10 +33,10 @@
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <AnimalGatherSpeed>0.75</AnimalGatherSpeed>
-      <AnimalGatherYield>1.5</AnimalGatherYield>
-    </statFactors>
+    <statOffsets>
+      <AnimalGatherSpeed>-0.35</AnimalGatherSpeed>
+      <AnimalGatherYield>0.5</AnimalGatherYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -47,10 +47,10 @@
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <AnimalGatherSpeed>0.9</AnimalGatherSpeed>
-      <AnimalGatherYield>1.2</AnimalGatherYield>
-    </statFactors>
+    <statOffsets>
+      <AnimalGatherSpeed>-0.1</AnimalGatherSpeed>
+      <AnimalGatherYield>0.15</AnimalGatherYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
@@ -59,7 +59,7 @@
     <label>normal</label>
     <description>Research is a worthwhile form of work that the community needs.</description>
     <impact>Low</impact>
-    <displayOrderInIssue>20</displayOrderInIssue>
+    <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
   </PreceptDef>
 
@@ -71,38 +71,38 @@
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <AnimalGatherSpeed>1.1</AnimalGatherSpeed>
-      <AnimalGatherYield>0.9</AnimalGatherYield>
-    </statFactors>
+    <statOffsets>
+      <AnimalGatherSpeed>0.1</AnimalGatherSpeed>
+      <AnimalGatherYield>-0.1</AnimalGatherYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>AnimalGatherSpeed_VeryFast</defName>
     <issue>AnimalGatherSpeedPercept</issue>
-    <label>veryfast</label>
+    <label>very fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <AnimalGatherSpeed>1.25</AnimalGatherSpeed>
-      <AnimalGatherYield>0.8</AnimalGatherYield>
-    </statFactors>
+    <statOffsets>
+      <AnimalGatherSpeed>0.155</AnimalGatherSpeed>
+      <AnimalGatherYield>-0.2</AnimalGatherYield>
+    </statOffsets>
   </PreceptDef>
 
   <PreceptDef>
     <defName>AnimalGatherSpeed_ExtremelyFast</defName>
     <issue>AnimalGatherSpeedPercept</issue>
-    <label>extremelyfast</label>
+    <label>extremely fast</label>
     <description>Research is among the most meaningful acts a person can perform.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
-    <statFactors>
-      <AnimalGatherSpeed>1.5</AnimalGatherSpeed>
-      <AnimalGatherYield>0.75</AnimalGatherYield>
-    </statFactors>
+    <statOffsets>
+      <AnimalGatherSpeed>0.5</AnimalGatherSpeed>
+      <AnimalGatherYield>-0.35</AnimalGatherYield>
+    </statOffsets>
   </PreceptDef>
 
 </Defs>
