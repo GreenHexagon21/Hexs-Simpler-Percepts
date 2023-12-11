@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<Defs>
+
+  <!-- Issue -->
+
+  <IssueDef>
+    <defName>ShootingAccuracyFactor_LongPercept</defName>
+    <label>door open speed</label>
+    <iconPath>UI/Issues/ShootingAccuracyFactor_LongPercept</iconPath>
+  </IssueDef>
+
+  <!-- Precepts -->
+
+  <PreceptDef>
+    <defName>ShootingAccuracyFactor_Long_ExtremelyInaccurate</defName>
+    <issue>ShootingAccuracyFactor_LongPercept</issue>
+    <label>extremely inaccurate</label>
+    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <impact>High</impact>
+    <displayOrderInIssue>50</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <ShootingAccuracyFactor_Long>-0.5</ShootingAccuracyFactor_Long>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>ShootingAccuracyFactor_Long_VeryInaccurate</defName>
+    <issue>ShootingAccuracyFactor_LongPercept</issue>
+    <label>very Inaccurate</label>
+    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <impact>High</impact>
+    <displayOrderInIssue>40</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <ShootingAccuracyFactor_Long>-0.35</ShootingAccuracyFactor_Long>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>ShootingAccuracyFactor_Long_Inaccurate</defName>
+    <issue>ShootingAccuracyFactor_LongPercept</issue>
+    <label>Inaccurate</label>
+    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>30</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <ShootingAccuracyFactor_Long>-0.1</ShootingAccuracyFactor_Long>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>ShootingAccuracyFactor_Long_Normal</defName>
+    <issue>ShootingAccuracyFactor_LongPercept</issue>
+    <label>normal</label>
+    <description>Research is a worthwhile form of work that the community needs.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <defaultSelectionWeight>1</defaultSelectionWeight>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>ShootingAccuracyFactor_Long_Accurate</defName>
+    <issue>ShootingAccuracyFactor_LongPercept</issue>
+    <label>accurate</label>
+    <description>Research is an especially virtuous activity.</description>
+    <impact>Low</impact>
+    <displayOrderInIssue>10</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <ShootingAccuracyFactor_Long>0.1</ShootingAccuracyFactor_Long>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>ShootingAccuracyFactor_Long_VeryAccurate</defName>
+    <issue>ShootingAccuracyFactor_LongPercept</issue>
+    <label>very accurate</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <ShootingAccuracyFactor_Long>0.3</ShootingAccuracyFactor_Long>
+    </statOffsets>
+  </PreceptDef>
+
+  <PreceptDef>
+    <defName>ShootingAccuracyFactor_Long_ExtremelyAccurate</defName>
+    <issue>ShootingAccuracyFactor_LongPercept</issue>
+    <label>extremely accurate</label>
+    <description>Research is among the most meaningful acts a person can perform.</description>
+    <impact>Medium</impact>
+    <displayOrderInIssue>0</displayOrderInIssue>
+    <displayOrderInImpact>1000</displayOrderInImpact>
+    <statOffsets>
+      <ShootingAccuracyFactor_Long>0.5</ShootingAccuracyFactor_Long>
+    </statOffsets>
+  </PreceptDef>
+
+</Defs>
