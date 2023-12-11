@@ -15,7 +15,7 @@
     <defName>CleaningTimeFactor_ExtremelySlow</defName>
     <issue>CleaningTimeFactorPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Cleaning is not something worth doing</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -27,7 +27,7 @@
   <PreceptDef>
     <defName>CleaningTimeFactor_VerySlow</defName>
     <issue>CleaningTimeFactorPercept</issue>
-    <label>very Slow</label>
+    <label>very slow</label>
     <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>

@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>AnimalGatherSpeedPercept</defName>
-    <label>animal gather Speed</label>
+    <label>animal gather speed</label>
     <iconPath>UI/Issues/AnimalGatherSpeedPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>AnimalGatherSpeed_ExtremelySlow</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They make sure not a strand of fur or a drop of milk is lost, while making sure the animls feel as good as possible.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,8 +28,8 @@
   <PreceptDef>
     <defName>AnimalGatherSpeed_VerySlow</defName>
     <issue>AnimalGatherSpeedPercept</issue>
-    <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description>They pay a lot of attention to gater as much resources from animals as possible, which makes the process slower</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -43,7 +43,7 @@
     <defName>AnimalGatherSpeed_Slow</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They do some extra work to make sure they waste no resources gathered from animals.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -57,7 +57,7 @@
     <defName>AnimalGatherSpeed_Normal</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They take care of animals as ususal.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -67,7 +67,7 @@
     <defName>AnimalGatherSpeed_Fast</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They try to finish gatering resources from animals faster than usual, losing some yield in the process.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -81,12 +81,12 @@
     <defName>AnimalGatherSpeed_VeryFast</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They are pretty good at getting animal work done fast, even if that means some resources get lost.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <AnimalGatherSpeed>0.155</AnimalGatherSpeed>
+      <AnimalGatherSpeed>0.25</AnimalGatherSpeed>
       <AnimalGatherYield>-0.2</AnimalGatherYield>
     </statOffsets>
   </PreceptDef>
@@ -95,7 +95,7 @@
     <defName>AnimalGatherSpeed_ExtremelyFast</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They mastered gathering resources from animals as quickly as possible, leaving some fur and milk ungathered.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

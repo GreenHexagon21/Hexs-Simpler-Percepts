@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>CaravanRidingSpeedFactorPercept</defName>
-    <label>door open speed</label>
+    <label>caravan riding speed</label>
     <iconPath>UI/Issues/CaravanRidingSpeedFactorPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>CaravanRidingSpeedFactor_ExtremelySlow</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They have to stop and pray every hour to the travel gods to keep them safe.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -27,8 +27,8 @@
   <PreceptDef>
     <defName>CaravanRidingSpeedFactor_VerySlow</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
-    <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description>Traveling is a huge hassle for them, they are also not good at it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>CaravanRidingSpeedFactor_Slow</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
     <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>The funny shoeas they have to wear the please the gods can get in the way of travel.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>CaravanRidingSpeedFactor_Normal</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They travel normally</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>CaravanRidingSpeedFactor_Fast</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They know a technique to forage very fast on the road, making them travel faster.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>CaravanRidingSpeedFactor_ExtremelyFast</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They know the best way to avoid getting attacked on the road is to stay on it as little as possible.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

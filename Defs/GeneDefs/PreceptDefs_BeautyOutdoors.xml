@@ -15,7 +15,7 @@
     <defName>Outdoor_ExtremelyUgly</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>extremely ugly</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Nature is messy, and not uniform, there is nothing beautiful about it.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>Outdoor_VeryUgly</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>very ugly</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>Nature needs a lot more 90 degree angles, to look nice.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>Outdoor_Ugly</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>ugly</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>There is nothing special about nature, they don't really care for it.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>Outdoor_Normal</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>Nature can be beautiful at times.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>Outdoor_Lovely</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>lovely</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>Nature has some lovely patterns, and can be quite nice.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>Outdoor_Beautiful</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>beautiful</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Nature should be appreciated, there aren't many things that could be more beautiful than nature's scenery.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>Outdoor_Gorgeous</defName>
     <issue>OutdoorBeautyPercept</issue>
     <label>gorgeous</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Nature's forms and patterns are perfect. It's the most beautiful thing in life. </description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
