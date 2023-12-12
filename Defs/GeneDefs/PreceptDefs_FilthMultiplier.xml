@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>FilthMultiplierPercept</defName>
-    <label>door open speed</label>
+    <label>filth</label>
     <iconPath>UI/Issues/FilthMultiplierPercept</iconPath>
   </IssueDef>
 

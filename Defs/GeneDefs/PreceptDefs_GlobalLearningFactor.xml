@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>GlobalLearningFactorPercept</defName>
-    <label>GlobalLearningFactor</label>
+    <label>learning speed</label>
     <iconPath>UI/Issues/GlobalLearningFactorPercept</iconPath>
   </IssueDef>
 

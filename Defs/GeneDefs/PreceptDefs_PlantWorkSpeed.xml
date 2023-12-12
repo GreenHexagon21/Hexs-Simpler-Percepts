@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>PlantWorkSpeedPercept</defName>
-    <label>PlantWorkSpeed</label>
+    <label>plant work</label>
     <iconPath>UI/Issues/PlantWorkSpeedPercept</iconPath>
   </IssueDef>
 

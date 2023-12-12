@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>AnimalsLearningFactorPercept</defName>
-    <label>Animal Learning</label>
+    <label>animal learning</label>
     <iconPath>UI/Issues/AnimalsLearningFactorPercept</iconPath>
   </IssueDef>
 

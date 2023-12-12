@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>ToxicEnvironmentResistancePercept</defName>
-    <label>ToxicEnvironmentResistance</label>
+    <label>toxic environment resistance</label>
     <iconPath>UI/Issues/ToxicEnvironmentResistancePercept</iconPath>
   </IssueDef>
 

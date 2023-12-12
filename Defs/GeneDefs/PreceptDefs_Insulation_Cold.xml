@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>Insulation_ColdPercept</defName>
-    <label>Insulation_Cold</label>
+    <label>cold insulation</label>
     <iconPath>UI/Issues/Insulation_ColdPercept</iconPath>
   </IssueDef>
 

@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>CertaintyLossFactorPercept</defName>
-    <label>CertaintyLossFactor</label>
+    <label>certainty loss speed</label>
     <iconPath>UI/Issues/CertaintyLossFactorPercept</iconPath>
   </IssueDef>
 

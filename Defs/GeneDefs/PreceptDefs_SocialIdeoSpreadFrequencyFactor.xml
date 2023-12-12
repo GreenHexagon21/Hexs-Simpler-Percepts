@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>SocialIdeoSpreadFrequencyFactorPercept</defName>
-    <label>door open speed</label>
+    <label>ideology spread</label>
     <iconPath>UI/Issues/SocialIdeoSpreadFrequencyFactorPercept</iconPath>
   </IssueDef>
 

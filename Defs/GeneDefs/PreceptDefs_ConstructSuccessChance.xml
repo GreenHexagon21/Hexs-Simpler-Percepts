@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>ConstructSuccessChancePercept</defName>
-    <label>construct success chance</label>
+    <label>construction success</label>
     <iconPath>UI/Issues/ConstructSuccessChancePercept</iconPath>
   </IssueDef>
 

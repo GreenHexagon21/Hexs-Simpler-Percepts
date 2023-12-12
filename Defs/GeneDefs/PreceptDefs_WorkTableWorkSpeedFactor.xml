@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>WorkTableWorkSpeedFactorPercept</defName>
-    <label>Worktable speed</label>
+    <label>worktable speed</label>
     <iconPath>UI/Issues/WorkTableWorkSpeedFactorPercept</iconPath>
   </IssueDef>
 

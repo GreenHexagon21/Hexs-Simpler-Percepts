@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>PawnBeautyPercept</defName>
-    <label>pawnbeauty</label>
+    <label>pawn beauty</label>
     <iconPath>UI/Issues/PawnBeautyPercept</iconPath>
   </IssueDef>
 

@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>TameAnimalChancePercept</defName>
-    <label>TameAnimalChance</label>
+    <label>tame animal</label>
     <iconPath>UI/Issues/TameAnimalChancePercept</iconPath>
   </IssueDef>
 

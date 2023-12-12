@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>BedRestEffectivenessPercept</defName>
-    <label>BedRestEffectiveness</label>
+    <label>bed rest effectiveness</label>
     <iconPath>UI/Issues/BedRestEffectivenessPercept</iconPath>
   </IssueDef>
 

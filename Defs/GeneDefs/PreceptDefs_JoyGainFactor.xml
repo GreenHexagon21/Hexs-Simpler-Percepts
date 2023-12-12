@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>JoyGainFactorPercept</defName>
-    <label>door open speed</label>
+    <label>recreation power</label>
     <iconPath>UI/Issues/JoyGainFactorPercept</iconPath>
   </IssueDef>
 

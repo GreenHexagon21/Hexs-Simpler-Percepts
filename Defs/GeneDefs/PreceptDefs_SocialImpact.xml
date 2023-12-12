@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>SocialImpactPercept</defName>
-    <label>SocialImpact</label>
+    <label>social impact</label>
     <iconPath>UI/Issues/SocialImpactPercept</iconPath>
   </IssueDef>
 

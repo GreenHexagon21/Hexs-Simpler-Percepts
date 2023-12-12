@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>MiningSpeedPercept</defName>
-    <label>mining speed</label>
+    <label>mining</label>
     <iconPath>UI/Issues/MiningSpeedPercept</iconPath>
   </IssueDef>
 

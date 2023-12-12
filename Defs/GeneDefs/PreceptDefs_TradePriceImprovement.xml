@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>TradePriceImprovementPercept</defName>
-    <label>TradePriceImprovement</label>
+    <label>Trade Price Improvement</label>
     <iconPath>UI/Issues/TradePriceImprovementPercept</iconPath>
   </IssueDef>
 
@@ -14,8 +14,8 @@
   <PreceptDef>
     <defName>TradePriceImprovement_ExtremelyStable</defName>
     <issue>TradePriceImprovementPercept</issue>
-    <label>extremely stable</label>
-    <description>They think it's charitable if you sell everything at a lov price so the poor traders can get more of it.</description>
+    <label>extremely bad</label>
+    <description>They think it's charitable if you sell everything at a low price.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -27,7 +27,7 @@
   <PreceptDef>
     <defName>TradePriceImprovement_VeryStable</defName>
     <issue>TradePriceImprovementPercept</issue>
-    <label>very Stable</label>
+    <label>very bad</label>
     <description>Asking too much for something is shunned so they make extra sure they don't sell anything overpriced, they might be overdoing it. </description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
@@ -40,7 +40,7 @@
   <PreceptDef>
     <defName>TradePriceImprovement_Stable</defName>
     <issue>TradePriceImprovementPercept</issue>
-    <label>Stable</label>
+    <label>bad</label>
     <description>They think money is not important at all, so they don't really care for prices that much.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
@@ -63,7 +63,7 @@
   <PreceptDef>
     <defName>TradePriceImprovement_Sensitive</defName>
     <issue>TradePriceImprovementPercept</issue>
-    <label>sensitive</label>
+    <label>good</label>
     <description>They are taught how to haggle.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
@@ -76,7 +76,7 @@
   <PreceptDef>
     <defName>TradePriceImprovement_VerySensitive</defName>
     <issue>TradePriceImprovementPercept</issue>
-    <label>very sensitive</label>
+    <label>very good</label>
     <description>Their culture is highly mercantile and they know how to haggle well.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
@@ -89,7 +89,7 @@
   <PreceptDef>
     <defName>TradePriceImprovement_ExtremelySensitive</defName>
     <issue>TradePriceImprovementPercept</issue>
-    <label>extremely sensitive</label>
+    <label>extremely good</label>
     <description>Their traditional hymns seem to soothe traders into a hypnotic state that let's them have better deals.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
