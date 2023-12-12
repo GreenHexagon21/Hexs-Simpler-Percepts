@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>MiningSpeedPercept</defName>
-    <label>MiningSpeed</label>
+    <label>mining speed</label>
     <iconPath>UI/Issues/MiningSpeedPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>MiningSpeed_ExtremelySlow</defName>
     <issue>MiningSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They paint strange symbols on the walls before mining them, it cannot be explained how but after it, it seems that the wall starts crying resources when struck.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,8 +28,8 @@
   <PreceptDef>
     <defName>MiningSpeed_VerySlow</defName>
     <issue>MiningSpeedPercept</issue>
-    <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description>They leave no stone unturned when mining, getting every little particle of resources.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -42,8 +42,8 @@
   <PreceptDef>
     <defName>MiningSpeed_Slow</defName>
     <issue>MiningSpeedPercept</issue>
-    <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>slow</label>
+    <description>Resources are necessary for progress so they take extra care gathering them.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -57,7 +57,7 @@
     <defName>MiningSpeed_Normal</defName>
     <issue>MiningSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They mine as anyone would.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -67,7 +67,7 @@
     <defName>MiningSpeed_Fast</defName>
     <issue>MiningSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They like the destructive power of mining.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -81,7 +81,7 @@
     <defName>MiningSpeed_VeryFast</defName>
     <issue>MiningSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They get in a trans like state while mining, so they can miss some resources.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

@@ -15,7 +15,7 @@
     <defName>SocialImpact_ExtremelyStable</defName>
     <issue>SocialImpactPercept</issue>
     <label>extremely stable</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They have some much post irony that they never know when someone actually insults them.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>SocialImpact_VeryStable</defName>
     <issue>SocialImpactPercept</issue>
     <label>very Stable</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>Insulting each other is required by a deity so they are mostly fine with it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>SocialImpact_Stable</defName>
     <issue>SocialImpactPercept</issue>
     <label>Stable</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They are more thick skinned thanks to folk tales they have.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>SocialImpact_Normal</defName>
     <issue>SocialImpactPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They act like an average pawn.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>SocialImpact_Sensitive</defName>
     <issue>SocialImpactPercept</issue>
     <label>sensitive</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They are very honest so every insult hurts them more.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>SocialImpact_VerySensitive</defName>
     <issue>SocialImpactPercept</issue>
     <label>very sensitive</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They were told that words can make physical changes to their body, so they can get very upset by them.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>SocialImpact_ExtremelySensitive</defName>
     <issue>SocialImpactPercept</issue>
     <label>extremely sensitive</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They take every insult to their heart and deeply think about it because that's what tradition calls for.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

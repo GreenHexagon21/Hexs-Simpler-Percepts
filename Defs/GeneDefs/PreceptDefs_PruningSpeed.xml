@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>PruningSpeedPercept</defName>
-    <label>PruningSpeed</label>
+    <label>pruning speed</label>
     <iconPath>UI/Issues/PruningSpeedPercept</iconPath>
   </IssueDef>
 
@@ -27,7 +27,7 @@
   <PreceptDef>
     <defName>PruningSpeed_VerySlow</defName>
     <issue>PruningSpeedPercept</issue>
-    <label>very Slow</label>
+    <label>very slow</label>
     <description>Their pruning shears they use are overly complicated and decorated.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
@@ -40,7 +40,7 @@
   <PreceptDef>
     <defName>PruningSpeed_Slow</defName>
     <issue>PruningSpeedPercept</issue>
-    <label>Slow</label>
+    <label>slow</label>
     <description>They find pruning extremely boring, so they constantly get distracted by other things in their surroundings.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>

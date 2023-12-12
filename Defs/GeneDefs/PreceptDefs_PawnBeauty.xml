@@ -28,7 +28,7 @@
     <defName>PawnBeauty_VeryUgly</defName>
     <issue>PawnBeautyPercept</issue>
     <label>very ugly</label>
-    <description>They don't care how anyone looks, so much so they don1t gain any pleasure from looking at others, even if they look nice.</description>
+    <description>They don't care how anyone looks, so much so they don't gain any pleasure from looking at others, even if they look nice.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>PawnBeauty_Ugly</defName>
     <issue>PawnBeautyPercept</issue>
     <label>ugly</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They find beauty in nature but not in people.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>PawnBeauty_Normal</defName>
     <issue>PawnBeautyPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They act as regular pawns.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>PawnBeauty_Lovely</defName>
     <issue>PawnBeautyPercept</issue>
     <label>lovely</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They can look past some imperfections.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

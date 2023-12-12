@@ -54,7 +54,7 @@
     <defName>ConversionPower_Normal</defName>
     <issue>ConversionPowerPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They have regular conversion power.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>ConversionPower_Strong</defName>
     <issue>ConversionPowerPercept</issue>
     <label>strong</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They are well spoken, and have good arguments when it comes to ideological talks.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>ConversionPower_VeryStrong</defName>
     <issue>ConversionPowerPercept</issue>
     <label>very strong</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They are quite polite to outsiders, and prioritize getting them to convert.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>ConversionPower_ExtremelyStrong</defName>
     <issue>ConversionPowerPercept</issue>
     <label>extremely strong</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>"Their hymns are almost otherworldly, I was close to converting just from a few songs" - Scottish Tom, Funny fact man</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

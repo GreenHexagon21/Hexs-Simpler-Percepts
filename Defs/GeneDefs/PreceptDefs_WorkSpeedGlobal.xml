@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>WorkSpeedPercept</defName>
-    <label>WorkSpeed</label>
+    <label>work speed</label>
     <iconPath>UI/Issues/WorkSpeedPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>WorkSpeed_ExtremelySlow</defName>
     <issue>WorkSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Laziness is a way to acquire inner peace for them.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -27,8 +27,8 @@
   <PreceptDef>
     <defName>WorkSpeed_VerySlow</defName>
     <issue>WorkSpeedPercept</issue>
-    <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description>While doing anything they have to stop and say a prayer every ten minutes to keep the spirits satisfied.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -40,8 +40,8 @@
   <PreceptDef>
     <defName>WorkSpeed_Slow</defName>
     <issue>WorkSpeedPercept</issue>
-    <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>slow</label>
+    <description>They think they are too powerful for this world, so they work slower to let other have a chance.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>WorkSpeed_Normal</defName>
     <issue>WorkSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They work as regular.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>WorkSpeed_Fast</defName>
     <issue>WorkSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They know it's for the greater good to work fast.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>WorkSpeed_VeryFast</defName>
     <issue>WorkSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They have an improved tool for everything, that only people in this ideology know how to use.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>WorkSpeed_ExtremelyFast</defName>
     <issue>WorkSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>"The more work you do the closer you are to the divine"</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

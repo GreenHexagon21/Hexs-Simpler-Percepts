@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>AnimalsLearningFactorPercept</defName>
-    <label>AnimalsLearningFactor</label>
+    <label>Animal Learning</label>
     <iconPath>UI/Issues/AnimalsLearningFactorPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>AnimalsLearningFactor_ExtremelySlow</defName>
     <issue>AnimalsLearningFactorPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description></description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,8 +28,8 @@
   <PreceptDef>
     <defName>AnimalsLearningFactor_VerySlow</defName>
     <issue>AnimalsLearningFactorPercept</issue>
-    <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description></description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -42,8 +42,8 @@
   <PreceptDef>
     <defName>AnimalsLearningFactor_Slow</defName>
     <issue>AnimalsLearningFactorPercept</issue>
-    <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>slow</label>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -57,7 +57,7 @@
     <defName>AnimalsLearningFactor_Normal</defName>
     <issue>AnimalsLearningFactorPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description></description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -67,7 +67,7 @@
     <defName>AnimalsLearningFactor_Fast</defName>
     <issue>AnimalsLearningFactorPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description></description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -81,7 +81,7 @@
     <defName>AnimalsLearningFactor_VeryFast</defName>
     <issue>AnimalsLearningFactorPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -95,7 +95,7 @@
     <defName>AnimalsLearningFactor_ExtremelyFast</defName>
     <issue>AnimalsLearningFactorPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

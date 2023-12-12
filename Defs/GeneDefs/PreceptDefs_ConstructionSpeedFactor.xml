@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>ConstructionSpeedPercept</defName>
-    <label>ConstructionSpeed</label>
+    <label>construction speed</label>
     <iconPath>UI/Issues/ConstructionSpeedPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>ConstructionSpeed_ExtremelySlow</defName>
     <issue>ConstructionSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Why construct stuff? Nature provided us with caves.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -27,8 +27,8 @@
   <PreceptDef>
     <defName>ConstructionSpeed_VerySlow</defName>
     <issue>ConstructionSpeedPercept</issue>
-    <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description>They have to make a and sprinkle holy water on every new thing constructed.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>ConstructionSpeed_Slow</defName>
     <issue>ConstructionSpeedPercept</issue>
     <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They put unnecessary details on everything they make.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>ConstructionSpeed_Normal</defName>
     <issue>ConstructionSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They work as usual.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>ConstructionSpeed_Fast</defName>
     <issue>ConstructionSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They know they can control nature with their buildings.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>ConstructionSpeed_VeryFast</defName>
     <issue>ConstructionSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They have generational knowledge about how to construct things efficiently.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>ConstructionSpeed_ExtremelyFast</defName>
     <issue>ConstructionSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>"They love constructing things, how the wall finishes itself on it's own after they perform a very specific dance is still a mystery to me" - Zy the traveler</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

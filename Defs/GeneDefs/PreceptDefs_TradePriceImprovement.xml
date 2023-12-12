@@ -15,7 +15,7 @@
     <defName>TradePriceImprovement_ExtremelyStable</defName>
     <issue>TradePriceImprovementPercept</issue>
     <label>extremely stable</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They think it's charitable if you sell everything at a lov price so the poor traders can get more of it.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>TradePriceImprovement_VeryStable</defName>
     <issue>TradePriceImprovementPercept</issue>
     <label>very Stable</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>Asking too much for something is shunned so they make extra sure they don't sell anything overpriced, they might be overdoing it. </description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>TradePriceImprovement_Stable</defName>
     <issue>TradePriceImprovementPercept</issue>
     <label>Stable</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They think money is not important at all, so they don't really care for prices that much.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>TradePriceImprovement_Normal</defName>
     <issue>TradePriceImprovementPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They trade as regular.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>TradePriceImprovement_Sensitive</defName>
     <issue>TradePriceImprovementPercept</issue>
     <label>sensitive</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They are taught how to haggle.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>TradePriceImprovement_VerySensitive</defName>
     <issue>TradePriceImprovementPercept</issue>
     <label>very sensitive</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Their culture is highly mercantile and they know how to haggle well.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>TradePriceImprovement_ExtremelySensitive</defName>
     <issue>TradePriceImprovementPercept</issue>
     <label>extremely sensitive</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Their traditional hymns seem to soothe traders into a hypnotic state that let's them have better deals.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

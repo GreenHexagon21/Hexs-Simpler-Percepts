@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>MedicalTendSpeedPercept</defName>
-    <label>MedicalTendSpeed</label>
+    <label>medical tending speed</label>
     <iconPath>UI/Issues/MedicalTendSpeedPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>MedicalTendSpeed_ExtremelySlow</defName>
     <issue>MedicalTendSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Giving the best possible medical care is in their doctrine, even if that means the process takes longer.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -29,7 +29,7 @@
     <defName>MedicalTendSpeed_VerySlow</defName>
     <issue>MedicalTendSpeedPercept</issue>
     <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>They take more time, just to make sure everything goes as planned.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -42,8 +42,8 @@
   <PreceptDef>
     <defName>MedicalTendSpeed_Slow</defName>
     <issue>MedicalTendSpeedPercept</issue>
-    <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>slow</label>
+    <description>They work slower but not sloppier.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -57,7 +57,7 @@
     <defName>MedicalTendSpeed_Normal</defName>
     <issue>MedicalTendSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They do medical procedures as the average pawn would.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -67,12 +67,12 @@
     <defName>MedicalTendSpeed_Fast</defName>
     <issue>MedicalTendSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>the body is yucky so they prefer dong medical things faster.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <MedicalTendSpeed>0.1</MedicalTendSpeed>
+      <MedicalTendSpeed>0.15</MedicalTendSpeed>
       <MedicalTendQuality>-0.1</MedicalTendQuality>
     </statOffsets>
   </PreceptDef>
@@ -81,7 +81,7 @@
     <defName>MedicalTendSpeed_VeryFast</defName>
     <issue>MedicalTendSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They think a person's essence is leaving when they are sick so they tend to problems quickly, but less effectively.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -95,7 +95,7 @@
     <defName>MedicalTendSpeed_ExtremelyFast</defName>
     <issue>MedicalTendSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Their ideology evolved from a militant one, so they do tend to injuries faster but, sloppier.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

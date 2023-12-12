@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>OutdoorBeautyPercept</defName>
-    <label>outdoorbeauty</label>
+    <label>outdoor beauty</label>
     <iconPath>UI/Issues/OutdoorBeautyPercept</iconPath>
   </IssueDef>
 

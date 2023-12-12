@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>MoveSpeedPercept</defName>
-    <label>door open speed</label>
+    <label>move speed</label>
     <iconPath>UI/Issues/MoveSpeedPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>MoveSpeed_ExtremelySlow</defName>
     <issue>MoveSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They think if you walk slow like a turtle you became wise.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -27,8 +27,8 @@
   <PreceptDef>
     <defName>MoveSpeed_VerySlow</defName>
     <issue>MoveSpeedPercept</issue>
-    <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description>Physical activities are not desired.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -40,8 +40,8 @@
   <PreceptDef>
     <defName>MoveSpeed_Slow</defName>
     <issue>MoveSpeedPercept</issue>
-    <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>slow</label>
+    <description>They believe that if you walk slower you live longer.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>MoveSpeed_Normal</defName>
     <issue>MoveSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They move with a regular speed.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>MoveSpeed_Fast</defName>
     <issue>MoveSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They are uncomfortably aware of the passing of time, so they move faster.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>MoveSpeed_VeryFast</defName>
     <issue>MoveSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Fitness is very important for them so they do cartwheels and such while moving.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

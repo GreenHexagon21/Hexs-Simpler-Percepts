@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>SmoothingSpeedPercept</defName>
-    <label>SmoothingSpeed</label>
+    <label>smoothing speed</label>
     <iconPath>UI/Issues/SmoothingSpeedPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>SmoothingSpeed_ExtremelySlow</defName>
     <issue>SmoothingSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Smoothing walls is violating the natural beauty of rocks, and only be done if necessary and with extreme care.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -27,8 +27,8 @@
   <PreceptDef>
     <defName>SmoothingSpeed_VerySlow</defName>
     <issue>SmoothingSpeedPercept</issue>
-    <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description>Their chisels are overly ornate and hard to use.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>SmoothingSpeed_Slow</defName>
     <issue>SmoothingSpeedPercept</issue>
     <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They hate when wall dust gets on their clothes so they try to avoid that by any cost.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>SmoothingSpeed_Normal</defName>
     <issue>SmoothingSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They smooth walls as anyone would.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>SmoothingSpeed_Fast</defName>
     <issue>SmoothingSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>Their chisels are very well made.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>SmoothingSpeed_VeryFast</defName>
     <issue>SmoothingSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They get in a trans like state as the rhythmically chisel away at the wall, making the process faster.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

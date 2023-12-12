@@ -29,7 +29,7 @@
     <defName>TameAnimalChance_VerySlow</defName>
     <issue>TameAnimalChancePercept</issue>
     <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>They have to say the same hymns over and over while taming, distressing the animals.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -43,7 +43,7 @@
     <defName>TameAnimalChance_Slow</defName>
     <issue>TameAnimalChancePercept</issue>
     <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>Animals have a mind of their own which can be annoying to them.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

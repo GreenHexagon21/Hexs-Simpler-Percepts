@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>ShootingAccuracyFactor_MediumPercept</defName>
-    <label>door open speed</label>
+    <label>shooting accuracy medium-range</label>
     <iconPath>UI/Issues/ShootingAccuracyFactor_MediumPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>ShootingAccuracyFactor_Medium_ExtremelyInaccurate</defName>
     <issue>ShootingAccuracyFactor_MediumPercept</issue>
     <label>extremely inaccurate</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description></description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -27,8 +27,8 @@
   <PreceptDef>
     <defName>ShootingAccuracyFactor_Medium_VeryInaccurate</defName>
     <issue>ShootingAccuracyFactor_MediumPercept</issue>
-    <label>very Inaccurate</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very inaccurate</label>
+    <description></description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -40,8 +40,8 @@
   <PreceptDef>
     <defName>ShootingAccuracyFactor_Medium_Inaccurate</defName>
     <issue>ShootingAccuracyFactor_MediumPercept</issue>
-    <label>Inaccurate</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>inaccurate</label>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>ShootingAccuracyFactor_Medium_Normal</defName>
     <issue>ShootingAccuracyFactor_MediumPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description></description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>ShootingAccuracyFactor_Medium_Accurate</defName>
     <issue>ShootingAccuracyFactor_MediumPercept</issue>
     <label>accurate</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description></description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>ShootingAccuracyFactor_Medium_VeryAccurate</defName>
     <issue>ShootingAccuracyFactor_MediumPercept</issue>
     <label>very accurate</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>ShootingAccuracyFactor_Medium_ExtremelyAccurate</defName>
     <issue>ShootingAccuracyFactor_MediumPercept</issue>
     <label>extremely accurate</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

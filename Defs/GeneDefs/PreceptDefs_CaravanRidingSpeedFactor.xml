@@ -77,7 +77,7 @@
     <defName>CaravanRidingSpeedFactor_VeryFast</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They prefer jogging while traveling.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>CaravanRidingSpeedFactor_ExtremelyFast</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
     <label>extremely fast</label>
-    <description>They know the best way to avoid getting attacked on the road is to stay on it as little as possible.</description>
+    <description>They know the best way to avoid getting attacked on the road is to stay on it as short as possible.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

@@ -54,7 +54,7 @@
     <defName>GlobalLearningFactor_Normal</defName>
     <issue>GlobalLearningFactorPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They are as receptive to learning as anyone else.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
