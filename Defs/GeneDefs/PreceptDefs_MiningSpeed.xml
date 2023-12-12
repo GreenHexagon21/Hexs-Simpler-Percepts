@@ -86,7 +86,7 @@
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <MiningSpeed>0.15</MiningSpeed>
+      <MiningSpeed>0.3</MiningSpeed>
       <MiningYield>-0.2</MiningYield>
     </statOffsets>
   </PreceptDef>
@@ -95,7 +95,7 @@
     <defName>MiningSpeed_ExtremelyFast</defName>
     <issue>MiningSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They mine extremely fast but also generate a lot of waste material, loosing some yield.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

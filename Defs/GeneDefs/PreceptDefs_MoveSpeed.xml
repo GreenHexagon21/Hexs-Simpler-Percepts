@@ -90,7 +90,7 @@
     <defName>MoveSpeed_ExtremelyFast</defName>
     <issue>MoveSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Jogging seen as a virtue and should be done constantly.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

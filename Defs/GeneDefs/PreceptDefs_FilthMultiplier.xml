@@ -15,7 +15,7 @@
     <defName>FilthMultiplier_ExtremelyClean</defName>
     <issue>FilthMultiplierPercept</issue>
     <label>extremely clean</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Cleanliness is a way to touch the divine so they leave as little filth as possible.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>FilthMultiplier_VeryClean</defName>
     <issue>FilthMultiplierPercept</issue>
     <label>very clean</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>They eat a divine serum that makes their hairs stay on for longer, making them leave less mess.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>FilthMultiplier_Clean</defName>
     <issue>FilthMultiplierPercept</issue>
     <label>clean</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They are careful and leave is little mess as possible after themselves.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>FilthMultiplier_Normal</defName>
     <issue>FilthMultiplierPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They are don't do anything special when it comes to leaving filth.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>FilthMultiplier_Filthy</defName>
     <issue>FilthMultiplierPercept</issue>
     <label>filthy</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They don't about being messy in this culture.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>FilthMultiplier_VeryFilthy</defName>
     <issue>FilthMultiplierPercept</issue>
     <label>very filthy</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Muddy shoes show a connection to earth and nature so they are desired.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>FilthMultiplier_ExtremelyFilthy</defName>
     <issue>FilthMultiplierPercept</issue>
     <label>extremely filthy</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Filth is nature's gift, we should produce as much of it as we can.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

@@ -28,7 +28,7 @@
     <defName>BedRestEffectiveness_VerySlow</defName>
     <issue>BedRestEffectivenessPercept</issue>
     <label>very Slow</label>
-    <description>They have a tradition to sleep in a really akward position</description>
+    <description>They have a tradition to sleep in a really awkward position</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

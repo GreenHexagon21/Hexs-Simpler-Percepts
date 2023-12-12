@@ -15,7 +15,7 @@
     <defName>PawnBeauty_ExtremelyUgly</defName>
     <issue>PawnBeautyPercept</issue>
     <label>extremely ugly</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They judge everyone very harshly, they always find something to judge.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>PawnBeauty_VeryUgly</defName>
     <issue>PawnBeautyPercept</issue>
     <label>very ugly</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>They don't care how anyone looks, so much so they don1t gain any pleasure from looking at others, even if they look nice.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>PawnBeauty_Beautiful</defName>
     <issue>PawnBeautyPercept</issue>
     <label>beautiful</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Their beauty standards are very low, and they are quite accepting.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>PawnBeauty_Gorgeous</defName>
     <issue>PawnBeautyPercept</issue>
     <label>gorgeous</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They think everyone is perfect as they are and a thing of beauty.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

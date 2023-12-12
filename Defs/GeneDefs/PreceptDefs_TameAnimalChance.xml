@@ -15,7 +15,7 @@
     <defName>TameAnimalChance_ExtremelySlow</defName>
     <issue>TameAnimalChancePercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Animals a filthy and noisy why would anyone want to tame them?</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -57,7 +57,7 @@
     <defName>TameAnimalChance_Normal</defName>
     <issue>TameAnimalChancePercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They have average knowledge about animals.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -67,7 +67,7 @@
     <defName>TameAnimalChance_Fast</defName>
     <issue>TameAnimalChancePercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They know their way around animals a bit more than the average pawn.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -81,7 +81,7 @@
     <defName>TameAnimalChance_VeryFast</defName>
     <issue>TameAnimalChancePercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They originate from a farming ship and they pass the learned knowledge down trough oral tradition.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -95,7 +95,7 @@
     <defName>TameAnimalChance_ExtremelyFast</defName>
     <issue>TameAnimalChancePercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Animals are almost as respected as people, and they have a lot of knowledge about how to handle and tame them.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>EatingSpeedPercept</defName>
-    <label>EatingSpeed</label>
+    <label>eating speed</label>
     <iconPath>UI/Issues/EatingSpeedPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>EatingSpeed_ExtremelySlow</defName>
     <issue>EatingSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They have to chew every bit of food 17 times, since it's a divine number.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>EatingSpeed_VerySlow</defName>
     <issue>EatingSpeedPercept</issue>
     <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>They prefer making little art pieces out of their food before eating it. Mashed potato fields and castles.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -40,8 +40,8 @@
   <PreceptDef>
     <defName>EatingSpeed_Slow</defName>
     <issue>EatingSpeedPercept</issue>
-    <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>slow</label>
+    <description>They like to take their time while eating.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>EatingSpeed_Normal</defName>
     <issue>EatingSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They eat normally.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>EatingSpeed_Fast</defName>
     <issue>EatingSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>Eating is a chore for them so they finish meals fast.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>EatingSpeed_VeryFast</defName>
     <issue>EatingSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They like blending up the food they are served with their own personal hand powered food processor, so they can eat it faster.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>EatingSpeed_ExtremelyFast</defName>
     <issue>EatingSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They eat with their hands and stuff their faces.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

@@ -12,10 +12,10 @@
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>Insulation_Heat_ExtremelyUgly</defName>
+    <defName>Insulation_Heat_Sensitive</defName>
     <issue>Insulation_HeatPercept</issue>
-    <label>extremely ugly</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <label>extremely sensitive</label>
+    <description>They are used to very cold climates, and windswept plains.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -25,10 +25,10 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Insulation_Heat_VeryUgly</defName>
+    <defName>Insulation_Heat_VerySensitive</defName>
     <issue>Insulation_HeatPercept</issue>
-    <label>very ugly</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very sensitive</label>
+    <description>They are used to living in cold starships.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -38,9 +38,9 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Insulation_Heat_Ugly</defName>
+    <defName>Insulation_Heat_Sensitive</defName>
     <issue>Insulation_HeatPercept</issue>
-    <label>ugly</label>
+    <label>sensitive</label>
     <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
@@ -63,8 +63,8 @@
   <PreceptDef>
     <defName>Insulation_Heat_Lovely</defName>
     <issue>Insulation_HeatPercept</issue>
-    <label>lovely</label>
-    <description>Research is an especially virtuous activity.</description>
+    <label>resistant</label>
+    <description>They are used to living near ship engine blocks.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -76,8 +76,8 @@
   <PreceptDef>
     <defName>Insulation_Heat_Beautiful</defName>
     <issue>Insulation_HeatPercept</issue>
-    <label>beautiful</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <label>very resistant</label>
+    <description>They are used to living in mediterranean regions.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -89,8 +89,8 @@
   <PreceptDef>
     <defName>Insulation_Heat_Gorgeous</defName>
     <issue>Insulation_HeatPercept</issue>
-    <label>gorgeous</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <label>extremely resistant</label>
+    <description>They are used to desert climate and can withstand heat well.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

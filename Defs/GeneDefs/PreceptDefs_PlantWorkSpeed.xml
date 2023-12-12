@@ -81,12 +81,12 @@
     <defName>PlantWorkSpeed_VeryFast</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They </description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <PlantWorkSpeed>0.155</PlantWorkSpeed>
+      <PlantWorkSpeed>0.3</PlantWorkSpeed>
       <PlantHarvestYield>-0.2</PlantHarvestYield>
     </statOffsets>
   </PreceptDef>
@@ -95,7 +95,7 @@
     <defName>PlantWorkSpeed_ExtremelyFast</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They have generational knowledge about everything plant related which allows them to work on plants extremely fast.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

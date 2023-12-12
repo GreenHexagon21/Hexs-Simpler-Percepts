@@ -15,7 +15,7 @@
     <defName>AnimalGatherSpeed_ExtremelySlow</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>They make sure not a strand of fur or a drop of milk is lost, while making sure the animls feel as good as possible.</description>
+    <description>They make sure not a strand of fur or a drop of milk is lost, while making sure the animals feel as good as possible.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -57,7 +57,7 @@
     <defName>AnimalGatherSpeed_Normal</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>normal</label>
-    <description>They take care of animals as ususal.</description>
+    <description>They take care of animals as usual.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -67,7 +67,7 @@
     <defName>AnimalGatherSpeed_Fast</defName>
     <issue>AnimalGatherSpeedPercept</issue>
     <label>fast</label>
-    <description>They try to finish gatering resources from animals faster than usual, losing some yield in the process.</description>
+    <description>They try to finish gartering resources from animals faster than usual, losing some yield in the process.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

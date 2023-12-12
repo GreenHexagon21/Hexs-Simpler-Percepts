@@ -15,7 +15,7 @@
     <defName>JoyGainFactor_ExtremelySlow</defName>
     <issue>JoyGainFactorPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>They have to say a prayer every ten minutes they do something fun.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>JoyGainFactor_VerySlow</defName>
     <issue>JoyGainFactorPercept</issue>
     <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>They constantly get distracted by dirty thoughts while recreating.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>JoyGainFactor_Slow</defName>
     <issue>JoyGainFactorPercept</issue>
     <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They are horrible at managing time.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>JoyGainFactor_Normal</defName>
     <issue>JoyGainFactorPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They recreate as usual.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>JoyGainFactor_Fast</defName>
     <issue>JoyGainFactorPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They now a few old ways to make spending their free time more fun.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>JoyGainFactor_VeryFast</defName>
     <issue>JoyGainFactorPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They make sure they can make the most out of their free time.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>JoyGainFactor_ExtremelyFast</defName>
     <issue>JoyGainFactorPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They think that joy is one of the great gifts of nature and know how to make the most of their free time.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

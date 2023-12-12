@@ -41,7 +41,7 @@
     <defName>CaravanRidingSpeedFactor_Slow</defName>
     <issue>CaravanRidingSpeedFactorPercept</issue>
     <label>Slow</label>
-    <description>The funny shoeas they have to wear the please the gods can get in the way of travel.</description>
+    <description>The funny shoes they have to wear the please the gods can get in the way of travel.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

@@ -12,10 +12,10 @@
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>Insulation_Cold_ExtremelyUgly</defName>
+    <defName>Insulation_Cold_ExtremelySensitive</defName>
     <issue>Insulation_ColdPercept</issue>
-    <label>extremely ugly</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <label>extremely sensitive</label>
+    <description>They are very not used to cold weather.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -25,10 +25,10 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Insulation_Cold_VeryUgly</defName>
+    <defName>Insulation_Cold_VerySensitive</defName>
     <issue>Insulation_ColdPercept</issue>
-    <label>very ugly</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very sensitive</label>
+    <description>They originate from spaceships with warm temperatures.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -38,10 +38,10 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Insulation_Cold_Ugly</defName>
+    <defName>Insulation_Cold_Sensitive</defName>
     <issue>Insulation_ColdPercept</issue>
-    <label>ugly</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>sensitive</label>
+    <description>They are used to slightly warmer climates.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>Insulation_Cold_Normal</defName>
     <issue>Insulation_ColdPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They are used to temperate weather.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -63,8 +63,8 @@
   <PreceptDef>
     <defName>Insulation_Cold_Lovely</defName>
     <issue>Insulation_ColdPercept</issue>
-    <label>lovely</label>
-    <description>Research is an especially virtuous activity.</description>
+    <label>resistant</label>
+    <description>They are used to colder climate.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -76,8 +76,8 @@
   <PreceptDef>
     <defName>Insulation_Cold_Beautiful</defName>
     <issue>Insulation_ColdPercept</issue>
-    <label>beautiful</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <label>very resistant</label>
+    <description>They are used to cold weather.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -89,8 +89,8 @@
   <PreceptDef>
     <defName>Insulation_Cold_Gorgeous</defName>
     <issue>Insulation_ColdPercept</issue>
-    <label>gorgeous</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <label>extremely resistant</label>
+    <description>They are sturdy, and used to cold weather.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

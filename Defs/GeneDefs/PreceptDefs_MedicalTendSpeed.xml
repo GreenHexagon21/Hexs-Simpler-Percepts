@@ -86,7 +86,7 @@
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
     <statOffsets>
-      <MedicalTendSpeed>0.155</MedicalTendSpeed>
+      <MedicalTendSpeed>0.3</MedicalTendSpeed>
       <MedicalTendQuality>-0.2</MedicalTendQuality>
     </statOffsets>
   </PreceptDef>

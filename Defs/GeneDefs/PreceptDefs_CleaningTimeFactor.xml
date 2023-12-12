@@ -5,7 +5,7 @@
 
   <IssueDef>
     <defName>CleaningTimeFactorPercept</defName>
-    <label>door open speed</label>
+    <label>cleaning time</label>
     <iconPath>UI/Issues/CleaningTimeFactorPercept</iconPath>
   </IssueDef>
 
@@ -15,7 +15,7 @@
     <defName>CleaningTimeFactor_ExtremelySlow</defName>
     <issue>CleaningTimeFactorPercept</issue>
     <label>extremely slow</label>
-    <description>Cleaning is not something worth doing</description>
+    <description>Cleaning is not something worth doing at all, dirt is part of nature.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>CleaningTimeFactor_VerySlow</defName>
     <issue>CleaningTimeFactorPercept</issue>
     <label>very slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>Using a mop is a high crime in their culture.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -40,8 +40,8 @@
   <PreceptDef>
     <defName>CleaningTimeFactor_Slow</defName>
     <issue>CleaningTimeFactorPercept</issue>
-    <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>slow</label>
+    <description>They prefer making everything spotless, so they take extra time cleaning.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>CleaningTimeFactor_Normal</defName>
     <issue>CleaningTimeFactorPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They clean as anyone would.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>CleaningTimeFactor_Fast</defName>
     <issue>CleaningTimeFactorPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>A few great cleaning techniques are passed down in this ideology.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>CleaningTimeFactor_VeryFast</defName>
     <issue>CleaningTimeFactorPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They hate to see filth around, so when they have a chance they clean it fast.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>CleaningTimeFactor_ExtremelyFast</defName>
     <issue>CleaningTimeFactorPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They show off their cleaning skills, so they do the job as fast as possible and as well as possible.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

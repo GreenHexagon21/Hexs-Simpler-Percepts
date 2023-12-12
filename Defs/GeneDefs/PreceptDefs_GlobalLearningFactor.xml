@@ -15,7 +15,7 @@
     <defName>GlobalLearningFactor_ExtremelySlow</defName>
     <issue>GlobalLearningFactorPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Why learning something new is shunned.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>GlobalLearningFactor_VerySlow</defName>
     <issue>GlobalLearningFactorPercept</issue>
     <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>They don't think highly of learning new skills.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>GlobalLearningFactor_Slow</defName>
     <issue>GlobalLearningFactorPercept</issue>
     <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They are just lazy when it comes to learning.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -64,7 +64,7 @@
     <defName>GlobalLearningFactor_Fast</defName>
     <issue>GlobalLearningFactorPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>Learning is desired.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>GlobalLearningFactor_VeryFast</defName>
     <issue>GlobalLearningFactorPercept</issue>
     <label>very fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>They know techniques that makes an individual wanting to learn constantly.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>GlobalLearningFactor_ExtremelyFast</defName>
     <issue>GlobalLearningFactorPercept</issue>
     <label>extremely fast</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description>Curiosity and constant learning is very virtuous and desired.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
