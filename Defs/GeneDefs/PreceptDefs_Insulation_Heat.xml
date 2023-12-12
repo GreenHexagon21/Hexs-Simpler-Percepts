@@ -12,7 +12,7 @@
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>Insulation_Heat_Sensitive</defName>
+    <defName>Insulation_Heat_ExtremelySensitive</defName>
     <issue>Insulation_HeatPercept</issue>
     <label>extremely sensitive</label>
     <description></description>
@@ -61,7 +61,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Insulation_Heat_Lovely</defName>
+    <defName>Insulation_Heat_Resistant</defName>
     <issue>Insulation_HeatPercept</issue>
     <label>resistant</label>
     <description></description>
@@ -74,7 +74,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Insulation_Heat_Beautiful</defName>
+    <defName>Insulation_Heat_veryResistant</defName>
     <issue>Insulation_HeatPercept</issue>
     <label>very resistant</label>
     <description></description>
@@ -87,7 +87,7 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>Insulation_Heat_Gorgeous</defName>
+    <defName>Insulation_Heat_extremelyResistant</defName>
     <issue>Insulation_HeatPercept</issue>
     <label>extremely resistant</label>
     <description></description>

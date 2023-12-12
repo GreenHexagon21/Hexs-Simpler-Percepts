@@ -15,7 +15,7 @@
     <defName>SocialIdeoSpreadFrequencyFactor_ExtremelyRare</defName>
     <issue>SocialIdeoSpreadFrequencyFactorPercept</issue>
     <label>extremely rare</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description></description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>SocialIdeoSpreadFrequencyFactor_VeryRare</defName>
     <issue>SocialIdeoSpreadFrequencyFactorPercept</issue>
     <label>very Rare</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description></description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>SocialIdeoSpreadFrequencyFactor_Rare</defName>
     <issue>SocialIdeoSpreadFrequencyFactorPercept</issue>
     <label>Rare</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>SocialIdeoSpreadFrequencyFactor_Normal</defName>
     <issue>SocialIdeoSpreadFrequencyFactorPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description></description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>SocialIdeoSpreadFrequencyFactor_Often</defName>
     <issue>SocialIdeoSpreadFrequencyFactorPercept</issue>
     <label>often</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description></description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>SocialIdeoSpreadFrequencyFactor_VeryOften</defName>
     <issue>SocialIdeoSpreadFrequencyFactorPercept</issue>
     <label>very often</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>SocialIdeoSpreadFrequencyFactor_ExtremelyOften</defName>
     <issue>SocialIdeoSpreadFrequencyFactorPercept</issue>
     <label>extremely often</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

@@ -15,7 +15,7 @@
     <defName>PlantWorkSpeed_ExtremelySlow</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>extremely slow</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <description>Draw certain symbols on the ground around the plants before harvesting them, the rest is a mystery.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -29,7 +29,7 @@
     <defName>PlantWorkSpeed_VerySlow</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>very Slow</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <description>They make sure nothing gets wasted of mother nature's gifts, even if that means slower harvests.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -43,7 +43,7 @@
     <defName>PlantWorkSpeed_Slow</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>Slow</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <description>They harvest crops carefully making sure they don1t waste too much.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -57,7 +57,7 @@
     <defName>PlantWorkSpeed_Normal</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description>They work on plants as they regularly would.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -67,7 +67,7 @@
     <defName>PlantWorkSpeed_Fast</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>fast</label>
-    <description>Research is an especially virtuous activity.</description>
+    <description>They have a bit of passed down knowledge about plant harvesting.</description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -81,7 +81,7 @@
     <defName>PlantWorkSpeed_VeryFast</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>very fast</label>
-    <description>They </description>
+    <description>They know how to make better plant harvesting tools.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -95,7 +95,7 @@
     <defName>PlantWorkSpeed_ExtremelyFast</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>They have generational knowledge about everything plant related which allows them to work on plants extremely fast.</description>
+    <description>They have generational knowledge about everything plant related which allows them to work on plants extremely fast. While sacrificing some of the yield. </description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

@@ -5,17 +5,17 @@
 
   <IssueDef>
     <defName>ConstructSuccessChancePercept</defName>
-    <label>ConstructSuccessChance</label>
+    <label>construct success chance</label>
     <iconPath>UI/Issues/ConstructSuccessChancePercept</iconPath>
   </IssueDef>
 
   <!-- Precepts -->
 
   <PreceptDef>
-    <defName>ConstructSuccessChance_ExtremelyStable</defName>
+    <defName>ConstructSuccessChance_Extremelyslow</defName>
     <issue>ConstructSuccessChancePercept</issue>
-    <label>extremely stable</label>
-    <description>Research isn't a worthwhile activity at all. Why try hard at it?</description>
+    <label>extremely slow</label>
+    <description></description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -25,10 +25,10 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructSuccessChance_VeryStable</defName>
+    <defName>ConstructSuccessChance_Veryslow</defName>
     <issue>ConstructSuccessChancePercept</issue>
-    <label>very Stable</label>
-    <description>Research work is unworthy of serious respect. Better not to be seen trying hard at it.</description>
+    <label>very slow</label>
+    <description></description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -38,10 +38,10 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructSuccessChance_Stable</defName>
+    <defName>ConstructSuccessChance_slow</defName>
     <issue>ConstructSuccessChancePercept</issue>
-    <label>Stable</label>
-    <description>Research work just isn't particularly meaningful. Why try hard at it?</description>
+    <label>slow</label>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,17 +54,17 @@
     <defName>ConstructSuccessChance_Normal</defName>
     <issue>ConstructSuccessChancePercept</issue>
     <label>normal</label>
-    <description>Research is a worthwhile form of work that the community needs.</description>
+    <description></description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructSuccessChance_Sensitive</defName>
+    <defName>ConstructSuccessChance_fast</defName>
     <issue>ConstructSuccessChancePercept</issue>
-    <label>sensitive</label>
-    <description>Research is an especially virtuous activity.</description>
+    <label>fast</label>
+    <description></description>
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -74,10 +74,10 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructSuccessChance_VerySensitive</defName>
+    <defName>ConstructSuccessChance_Veryfast</defName>
     <issue>ConstructSuccessChancePercept</issue>
-    <label>very sensitive</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <label>very fast</label>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -87,10 +87,10 @@
   </PreceptDef>
 
   <PreceptDef>
-    <defName>ConstructSuccessChance_ExtremelySensitive</defName>
+    <defName>ConstructSuccessChance_Extremelyfast</defName>
     <issue>ConstructSuccessChancePercept</issue>
-    <label>extremely sensitive</label>
-    <description>Research is among the most meaningful acts a person can perform.</description>
+    <label>extremely fast</label>
+    <description></description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
