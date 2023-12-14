@@ -28,7 +28,7 @@
     <defName>CertaintyLossFactor_VerySlow</defName>
     <issue>CertaintyLossFactorPercept</issue>
     <label>very Slow</label>
-    <description></description>
+    
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>CertaintyLossFactor_Slow</defName>
     <issue>CertaintyLossFactorPercept</issue>
     <label>Slow</label>
-    <description></description>
+    
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>CertaintyLossFactor_Normal</defName>
     <issue>CertaintyLossFactorPercept</issue>
     <label>normal</label>
-    <description></description>
+    
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>

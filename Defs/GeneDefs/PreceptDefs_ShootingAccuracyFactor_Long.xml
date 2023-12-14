@@ -15,7 +15,7 @@
     <defName>ShootingAccuracyFactor_Long_ExtremelyInaccurate</defName>
     <issue>ShootingAccuracyFactor_LongPercept</issue>
     <label>extremely inaccurate</label>
-    <description></description>
+    
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -28,7 +28,7 @@
     <defName>ShootingAccuracyFactor_Long_VeryInaccurate</defName>
     <issue>ShootingAccuracyFactor_LongPercept</issue>
     <label>very inaccurate</label>
-    <description></description>
+    
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -41,7 +41,7 @@
     <defName>ShootingAccuracyFactor_Long_Inaccurate</defName>
     <issue>ShootingAccuracyFactor_LongPercept</issue>
     <label>inaccurate</label>
-    <description></description>
+    
     <impact>Medium</impact>
     <displayOrderInIssue>30</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -54,7 +54,7 @@
     <defName>ShootingAccuracyFactor_Long_Normal</defName>
     <issue>ShootingAccuracyFactor_LongPercept</issue>
     <label>normal</label>
-    <description></description>
+    
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <defaultSelectionWeight>1</defaultSelectionWeight>
@@ -64,7 +64,7 @@
     <defName>ShootingAccuracyFactor_Long_Accurate</defName>
     <issue>ShootingAccuracyFactor_LongPercept</issue>
     <label>accurate</label>
-    <description></description>
+    
     <impact>Low</impact>
     <displayOrderInIssue>10</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -77,7 +77,7 @@
     <defName>ShootingAccuracyFactor_Long_VeryAccurate</defName>
     <issue>ShootingAccuracyFactor_LongPercept</issue>
     <label>very accurate</label>
-    <description></description>
+    
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
@@ -90,7 +90,7 @@
     <defName>ShootingAccuracyFactor_Long_ExtremelyAccurate</defName>
     <issue>ShootingAccuracyFactor_LongPercept</issue>
     <label>extremely accurate</label>
-    <description></description>
+    
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
