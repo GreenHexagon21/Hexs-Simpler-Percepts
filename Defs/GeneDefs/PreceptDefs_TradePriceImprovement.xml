@@ -28,7 +28,7 @@
     <defName>TradePriceImprovement_VeryStable</defName>
     <issue>TradePriceImprovementPercept</issue>
     <label>very bad</label>
-    <description>Asking too much for something is shunned so they make extra sure they don't sell anything overpriced, they might be overdoing it. </description>
+    <description>Asking too much for something is shunned so they make extra sure they don't sell anything overpriced, they might be overdoing it.</description>
     <impact>High</impact>
     <displayOrderInIssue>40</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

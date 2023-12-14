@@ -95,7 +95,7 @@
     <defName>PlantWorkSpeed_ExtremelyFast</defName>
     <issue>PlantWorkSpeedPercept</issue>
     <label>extremely fast</label>
-    <description>They have generational knowledge about everything plant related which allows them to work on plants extremely fast. While sacrificing some of the yield. </description>
+    <description>They have generational knowledge about everything plant related which allows them to work on plants extremely fast. While sacrificing some of the yield.</description>
     <impact>Medium</impact>
     <displayOrderInIssue>0</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>

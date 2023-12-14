@@ -15,7 +15,7 @@
     <defName>BedRestEffectiveness_ExtremelySlow</defName>
     <issue>BedRestEffectivenessPercept</issue>
     <label>extremely slow</label>
-    <description>They take pride in using the most uncomfortable pillows and </description>
+    <description>They take pride in using the most uncomfortable pillows and the floor.</description>
     <impact>High</impact>
     <displayOrderInIssue>50</displayOrderInIssue>
     <displayOrderInImpact>1000</displayOrderInImpact>
