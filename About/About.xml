@@ -2,9 +2,9 @@
 <ModMetaData>
 
 
-    <name>Hex's Simple Percepts</name>
+    <name>Hex's Simple Precepts</name>
     <author>Hex</author>
-    <packageId>Hex.HexsSimplePercepts</packageId>
+    <packageId>Hex.HexsSimplePrecepts</packageId>
     <supportedVersions>
         <li>1.4</li>
     </supportedVersions>
@@ -13,7 +13,7 @@
         <li>ludeon.rimworld.biotech</li>
     </loadAfter>
     <description>
-        Adds new and simple percepts. Just so you have more percepts to mess around with.
+        Adds new and simple precepts, similar to the Research precept, let's you control many more stats. Just so you have more options to mess around with when making an ideology.
     </description>
 
 </ModMetaData>
